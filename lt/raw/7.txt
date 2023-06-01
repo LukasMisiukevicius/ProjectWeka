@@ -1,0 +1,1734 @@
+<!DOCTYPE html>
+<html lang="lt-LT">
+<head>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5B8RV5H');</script>
+    <!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv='cache-control' content='no-cache'>
+	<meta http-equiv='expires' content='0'>
+	<meta http-equiv='pragma' content='no-cache'>
+
+
+	<link rel="icon" type="image/png" href="https://sekunde.lt/content/themes/ran/assets/favicons/sekunde/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://sekunde.lt/content/themes/ran/assets/favicons/sekunde/favicon-16x16.png" sizes="16x16">
+	<link rel="shortcut icon" href="https://sekunde.lt/content/themes/ran/assets/favicons/favicon.ico">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://sekunde.lt/content/themes/ran/assets/favicons/apple-touch-icon.png">
+    <link rel="manifest" href="https://sekunde.lt/content/themes/ran/assets/favicons/manifest.json">
+    <link rel="mask-icon" href="https://sekunde.lt/content/themes/ran/assets/favicons/safari-pinned-tab.svg" color="#6a154b">
+    <meta name="msapplication-config" content="https://sekunde.lt/content/themes/ran/assets/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#6a154b">
+
+			<meta name="viewport" content="width=1320, user-scalable=no">
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą &mdash; sekunde.lt</title>
+	<link rel="canonical" href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/" />
+	<meta property="og:locale" content="lt_LT" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą &mdash; sekunde.lt" />
+	<meta property="og:description" content="Smarkiai išaugus elektros kainoms, Lietuvos verslas prašo valstybės nedelsiant parengti pagalbos priemones, antraip įmonės gali prarasti konkurencinį pranašumą tarptautinėse rinkose..." />
+	<meta property="og:url" content="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/" />
+	<meta property="og:site_name" content="sekunde.lt" />
+	<meta property="article:author" content="https://www.facebook.com/sekunde.lt/?fref=ts" />
+	<meta property="article:published_time" content="2022-09-08T08:21:55+00:00" />
+	<meta property="article:modified_time" content="2022-09-08T08:22:07+00:00" />
+	<meta property="og:image" content="https://sekunde.lt/content/uploads/2022/09/photo_973015.jpg" />
+	<meta property="og:image:width" content="1305" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Sekundė" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Sekundė" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutės" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://sekunde.lt/#website","url":"https://sekunde.lt/","name":"sekunde.lt","description":"Informatyviausia Sekundė tavo gyvenime","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sekunde.lt/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"lt-LT"},{"@type":"ImageObject","inLanguage":"lt-LT","@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#primaryimage","url":"https://sekunde.lt/content/uploads/2022/09/photo_973015.jpg","contentUrl":"https://sekunde.lt/content/uploads/2022/09/photo_973015.jpg","width":1305,"height":1080,"caption":"Mariaus Morkevičiaus (ELTA) nuotr."},{"@type":"WebPage","@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/","url":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/","name":"Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą &mdash; sekunde.lt","isPartOf":{"@id":"https://sekunde.lt/#website"},"primaryImageOfPage":{"@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#primaryimage"},"image":{"@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#primaryimage"},"thumbnailUrl":"https://sekunde.lt/content/uploads/2022/09/photo_973015.jpg","datePublished":"2022-09-08T08:21:55+00:00","dateModified":"2022-09-08T08:22:07+00:00","author":{"@id":"https://sekunde.lt/#/schema/person/07436f9ce112410746a7dee658bae274"},"breadcrumb":{"@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#breadcrumb"},"inLanguage":"lt-LT","potentialAction":[{"@type":"ReadAction","target":["https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/"]}]},{"@type":"BreadcrumbList","@id":"https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://sekunde.lt/"},{"@type":"ListItem","position":2,"name":"Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą"}]},{"@type":"Person","@id":"https://sekunde.lt/#/schema/person/07436f9ce112410746a7dee658bae274","name":"Sekundė","image":{"@type":"ImageObject","inLanguage":"lt-LT","@id":"https://sekunde.lt/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8ebd96c471938984dfeaf1ccca1309ec?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/8ebd96c471938984dfeaf1ccca1309ec?s=96&d=mm&r=g","caption":"Sekundė"},"sameAs":["http://www.sekunde.lt","https://www.facebook.com/sekunde.lt/?fref=ts"],"url":"https://sekunde.lt/leidinys/sekunde/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="sekunde.lt &raquo; Įrašų RSS srautas" href="https://sekunde.lt/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sekunde.lt &raquo; Komentarų RSS srautas" href="https://sekunde.lt/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sekunde.lt &raquo; Įrašo „Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą“ komentarų RSS srautas" href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sekunde.lt\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sdm-styles-css'  href='https://sekunde.lt/content/plugins/simple-download-monitor/css/sdm_wp_styles.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://sekunde.lt/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='https://sekunde.lt/content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://sekunde.lt/content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://sekunde.lt/content/plugins/wp-polls/polls-css.css?ver=2.77.0' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #d8e1eb;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='yop-public-css'  href='https://sekunde.lt/content/plugins/yop-poll/public/assets/css/yop-poll-public-6.4.9.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://sekunde.lt/content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ran-vendor-css'  href='https://sekunde.lt/content/themes/ran/assets/css/vendor.css?ver=20180316' type='text/css' media='all' />
+<link rel='stylesheet' id='ran-ath-css'  href='https://sekunde.lt/content/themes/ran/assets/css/addtohomescreen.css?ver=20180316' type='text/css' media='all' />
+<link rel='stylesheet' id='ran-prod-css'  href='https://sekunde.lt/content/themes/ran/assets/css/prod.css?ver=20180316' type='text/css' media='all' />
+<script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='sdm-scripts-js-extra'>
+/* <![CDATA[ */
+var sdm_ajax_script = {"ajaxurl":"https:\/\/sekunde.lt\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/simple-download-monitor/js/sdm_wp_scripts.js?ver=5.8.2' id='sdm-scripts-js'></script>
+<script type='text/javascript' id='yop-public-js-extra'>
+/* <![CDATA[ */
+var objectL10n = {"yopPollParams":{"urlParams":{"ajax":"https:\/\/sekunde.lt\/wordpress\/wp-admin\/admin-ajax.php","wpLogin":"https:\/\/sekunde.lt\/wordpress\/wp-login.php?redirect_to=https%3A%2F%2Fsekunde.lt%2Fwordpress%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dyop_poll_record_wordpress_vote"},"apiParams":{"reCaptcha":{"siteKey":""},"reCaptchaV2Invisible":{"siteKey":""},"reCaptchaV3":{"siteKey":""},"hCaptcha":{"siteKey":""}},"captchaParams":{"imgPath":"https:\/\/sekunde.lt\/content\/plugins\/yop-poll\/public\/assets\/img\/","url":"https:\/\/sekunde.lt\/content\/plugins\/yop-poll\/app.php","accessibilityAlt":"Sound icon","accessibilityTitle":"Accessibility option: listen to a question and answer it!","accessibilityDescription":"Type below the <strong>answer<\/strong> to what you hear. Numbers or words:","explanation":"Click or touch the <strong>ANSWER<\/strong>","refreshAlt":"Refresh\/reload icon","refreshTitle":"Refresh\/reload: get new images and accessibility option!"},"voteParams":{"invalidPoll":"Invalid Poll","noAnswersSelected":"Pasirinkite nors vien\u0105 atsakym\u0105.","minAnswersRequired":"At least {min_answers_allowed} answer(s) required","maxAnswersRequired":"A max of {max_answers_allowed} answer(s) accepted","noAnswerForOther":"No other answer entered","noValueForCustomField":"{custom_field_name} is required","consentNotChecked":"You must agree to our terms and conditions","noCaptchaSelected":"Captcha is required","thankYou":"A\u010di\u016b u\u017e dalyvavim\u0105 apklausoje."},"resultsParams":{"singleVote":"balsas","multipleVotes":"balsai","singleAnswer":"atsakymas","multipleAnswers":"atsakymai"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/yop-poll/public/assets/js/yop-poll-public-6.4.9.min.js?ver=5.8.2' id='yop-public-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/sekunde.lt\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/sekunde.lt\/wp-json\/wordpress-popular-posts","ID":322931,"token":"c6be09a66f","lang":0,"debug":1}
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.0.5' id='wpp-js-js'></script>
+<link rel="https://api.w.org/" href="https://sekunde.lt/wp-json/" /><link rel="alternate" type="application/json" href="https://sekunde.lt/wp-json/wp/v2/posts/322931" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sekunde.lt/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sekunde.lt/wordpress/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://sekunde.lt/?p=322931' />
+<link rel="alternate" type="application/json+oembed" href="https://sekunde.lt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsekunde.lt%2Fleidinys%2Fsekunde%2Fverslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sekunde.lt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsekunde.lt%2Fleidinys%2Fsekunde%2Fverslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra%2F&#038;format=xml" />
+
+<!-- This site is using AdRotate v5.3 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-1 { min-width:0px; max-width:300px; }
+	.b-1 { margin:0px 0px 0px 0px; }
+	.g-26 { min-width:0px; max-width:600px; }
+	.b-26 { margin:0px 0px 0px 0px; }
+	.g-41 { min-width:0px; max-width:600px; }
+	.b-41 { margin:0px 0px 0px 0px; }
+	.g-192 { min-width:0px; max-width:300px; }
+	.b-192 { margin:0px 0px 0px 0px; }
+	.g-193 { min-width:0px; max-width:300px; }
+	.b-193 { margin:0px 0px 0px 0px; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-142209460-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <link rel="amphtml" href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/?amp=1"><link rel="icon" href="https://sekunde.lt/content/uploads/2020/01/LOGO_S_raide.png" sizes="32x32" />
+<link rel="icon" href="https://sekunde.lt/content/uploads/2020/01/LOGO_S_raide.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sekunde.lt/content/uploads/2020/01/LOGO_S_raide.png" />
+<meta name="msapplication-TileImage" content="https://sekunde.lt/content/uploads/2020/01/LOGO_S_raide.png" />
+
+
+
+    <meta name="google-site-verification" content="IgKAsN664J9aFepdzOzmfy8uqmRwRbDmQPIkyaFda7g" />
+
+
+    <script type="text/javascript" src="https://ads.vidoomy.com/sekundeit_17200.js" async></script>
+
+    <!-- SETUPAD dalis -->
+
+    <script src="//sekunde.lt/content/themes/ran/inview.js"></script>
+    <script>inView.offset(-1000);</script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/22142702982/sekunde.lt_1000x200_top', [[970, 250], [1000, 200], [970, 90], [980, 250], [980, 200]], 'div-gpt-ad-1602588481690-0').addService(googletag.pubads());
+            //googletag.defineSlot('/22142702982/sekunde.lt_300x250_mobile_top', [[300, 250], 'fluid'], 'div-gpt-ad-1602588898173-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x250_mobile_top', [[336, 280], 'fluid', [300, 250]],'div-gpt-ad-1602588898173-0').addService(googletag.pubads());
+
+
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_1', [[300, 600], [300, 250]], 'div-gpt-ad-1602588928156-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_2', [[300, 600], [300, 250]], 'div-gpt-ad-1602588963699-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_3', [[300, 250], [300, 600]], 'div-gpt-ad-1602588991505-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_4', [[300, 250], [300, 600]], 'div-gpt-ad-1602589018733-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_5', [[300, 600], [300, 250]], 'div-gpt-ad-1602589045883-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_300x600_sidebar_6', [[300, 250], [300, 600]], 'div-gpt-ad-1602589071650-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_320x100_mobile_sticky', [[320, 50], [320, 100]], 'div-gpt-ad-1602589161791-0').addService(googletag.pubads());
+            googletag.defineSlot('/22142702982/sekunde.lt_320x50_special_promo', [320, 50], 'div-gpt-ad-1620982896580-0').addService(googletag.pubads());
+            //googletag.defineSlot('/22142702982/sekunde.lt_300x250_mobile_general', [[336, 280], 'fluid', [300, 250]], 'div-gpt-ad-1602588868551-0').addService(googletag.pubads());
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+
+    <!-- interstitial -->
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            var interstitialSlot = googletag.defineOutOfPageSlot('/147246189,22142702982/sekunde.lt_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+            if (interstitialSlot) interstitialSlot.addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+            googletag.display(interstitialSlot);
+        });
+    </script>
+
+    <!-- CMP -->
+    <script>(function(){/*
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+            'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+                if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+                function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+                "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+                e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+                255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+            M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+                3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+            var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+                e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+
+        window.__d3lUW8vwsKlB__("WyJmMjUwNWQ4ZDg0NDVhMDhhIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4V0otZDdnMjRzZ0NYb2NQSElMbzdUUlN0SjcwWURsSnJac1IzMlpvR2c2allqZVFEeHFJN05uVGoxQ3BFdHRoOVlPU2lwWjVsckxydU9DR0N6TVh2c1x1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiWmpJMU1EVmtPR1E0TkRRMVlUQTRZUVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC9mMjUwNWQ4ZDg0NDVhMDhhLmpzP3VzcXBcdTAwM2RDQVEiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4VzE4dkN1elFHV1hUS2pVMWhQLVpYUVVRa3Z5b3FJN1NsTXZ6aW1qQ1FRYzFCcldIR1M2VEJZVzc0OEV6eDBqeE5DdURPUnVTXzRJVEJoS0VXcD9hYlx1MDAzZDEiLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hWOThLV1BGb2RiUE55c2VJelREa1Via2IxN1pIQmFMX3ZjRTNCamlRSEhCU1VWcmpLbkFaVkxfVU83bW9OYURWY1laMnc1SlZfOUxqY0doamZoP2FiXHUwMDNkMlx1MDAyNnNiZlx1MDAzZDEiLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hYOXhHV3NiWWdDTHY4WF84dFJtWENRODlvZEhzcklleEtoLTQyMU9zUDBUTHotNGxrdnl6dV81TzYxWUs3OTRfZ2N3am9LM1ZFRjFkdVJNcGRUP3NiZlx1MDAzZDIiXQo=");</script>
+
+</head>
+
+<body >
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5B8RV5H"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=387260554952091";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+
+<script type='text/javascript'>
+    window.__lo_site_id = 78812;
+    (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+    })();
+</script>
+
+
+
+
+
+
+
+
+<!-- iBILLBOARD Ad Server one2many Position: go.adlt.bbelements.com naujienos.lt(24105) / Visa aplinka(1) / 750x100(1) / 750x100(1)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+
+
+	<div class="ad-top version2" style="margin: -25px 0 0 0; padding-bottom: 0;">
+                    <!-- /22142702982/sekunde.lt_1000x200_top -->
+<div id='div-gpt-ad-1602588481690-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602588481690-0'); });
+  </script>
+</div>        	</div>
+
+	
+
+
+<div id="top-bar" class="is-author-page" style="background-color:#0071ce">
+
+	<div class="top-bar_top" style="margin-top: -25px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 clearfix">
+                    <div class="tbt-wrap clearfix">
+                        <a style="display: none" href="https://sekunde.lt" class="logo-smaller pull-left"><img src="https://sekunde.lt/content/themes/ran/assets/img/logo_small.svg" alt="sekunde.lt"></a>
+
+                                                    <a href="https://sekunde.lt/leidinys/sekunde/" class="logo pull-left auth-logo"><img src="https://sekunde.lt/content/uploads/2022/02/sekunde-logo_UKR-1.png" alt="sekunde.lt"></a>
+                        
+                        <div class="weather-home clearfix"></div>
+
+                        <div class="nav-search">
+                            <div class="search-trigg"></div>
+                            <form role="search" method="get" id="searchform" class="searchform" action="https://sekunde.lt/">
+				<div>
+					<label class="screen-reader-text" for="s">Ieškoti:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Paieška" />
+				</div>
+			</form>                        </div>
+
+                        
+                            <ul class="author-links">
+                                                                    <li style="display: none"><a class="adv-button" href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/">Skelbimai</a></li>
+                                                                                                    <li><a href="https://prenumerata.sekunde.lt/">Prenumerata</a></li>
+                                                                                                    <li><a href="https://sekunde.lt/apie-sekunde/sekunde-kontaktai/">Kontaktai</a></li>
+                                                                                                    <li><a target="_blank" href="https://www.facebook.com/sekunde.lt/?fref=ts"><img style="height: 24px" src="https://sekunde.lt/content/themes/ran/assets/img/ffawhite.png" alt="Facebook"></a></li>
+                                                            </ul>
+
+                        
+                                            </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 clearfix nav-bar">
+				<ul class="main-menu">
+                    <style type="text/css">
+					.TEMPnav-bar .main-menu .menu--category-312 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-312 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-aktualijos {background: #0071ce;}
+					.section-title.section--category-aktualijos:before {background: #0049a6;}
+					.section-title.section--category-aktualijos:after {background: #32a3ff;}
+					.section-title.section--category-aktualijos span {color: #0071ce;}
+					.section-title.section--category-312 {color: #0071ce!important;}
+					.section-title.section--category-312:before {background: #0071ce;}
+					.section-title.section--category-312 span {color: #0071ce;}
+					.section-title.section--category-312:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-127 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-127 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-seseliai {background: #0071ce;}
+					.section-title.section--category-seseliai:before {background: #0049a6;}
+					.section-title.section--category-seseliai:after {background: #32a3ff;}
+					.section-title.section--category-seseliai span {color: #0071ce;}
+					.section-title.section--category-127 {color: #0071ce!important;}
+					.section-title.section--category-127:before {background: #0071ce;}
+					.section-title.section--category-127 span {color: #0071ce;}
+					.section-title.section--category-127:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-128 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-128 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-sveikata {background: #0071ce;}
+					.section-title.section--category-sveikata:before {background: #0049a6;}
+					.section-title.section--category-sveikata:after {background: #32a3ff;}
+					.section-title.section--category-sveikata span {color: #0071ce;}
+					.section-title.section--category-128 {color: #0071ce!important;}
+					.section-title.section--category-128:before {background: #0071ce;}
+					.section-title.section--category-128 span {color: #0071ce;}
+					.section-title.section--category-128:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-120 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-120 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-kultura {background: #0071ce;}
+					.section-title.section--category-kultura:before {background: #0049a6;}
+					.section-title.section--category-kultura:after {background: #32a3ff;}
+					.section-title.section--category-kultura span {color: #0071ce;}
+					.section-title.section--category-120 {color: #0071ce!important;}
+					.section-title.section--category-120:before {background: #0071ce;}
+					.section-title.section--category-120 span {color: #0071ce;}
+					.section-title.section--category-120:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-123 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-123 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-sportas {background: #0071ce;}
+					.section-title.section--category-sportas:before {background: #0049a6;}
+					.section-title.section--category-sportas:after {background: #32a3ff;}
+					.section-title.section--category-sportas span {color: #0071ce;}
+					.section-title.section--category-123 {color: #0071ce!important;}
+					.section-title.section--category-123:before {background: #0071ce;}
+					.section-title.section--category-123 span {color: #0071ce;}
+					.section-title.section--category-123:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-124 {border-bottom: 4px solid #0071ce!important;}
+					.mob-cat-trigg .main-menu .menu--category-124 {border-left: 6px solid #0071ce!important;}
+					.section-title.section--category-verslas {background: #0071ce;}
+					.section-title.section--category-verslas:before {background: #0049a6;}
+					.section-title.section--category-verslas:after {background: #32a3ff;}
+					.section-title.section--category-verslas span {color: #0071ce;}
+					.section-title.section--category-124 {color: #0071ce!important;}
+					.section-title.section--category-124:before {background: #0071ce;}
+					.section-title.section--category-124 span {color: #0071ce;}
+					.section-title.section--category-124:after {background: #32a3ff;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					
+					.TEMPnav-bar .main-menu .menu--category-19614 {border-bottom: 4px solid #1e73be!important;}
+					.mob-cat-trigg .main-menu .menu--category-19614 {border-left: 6px solid #1e73be!important;}
+					.section-title.section--category-gerumas-kaip-gyvenimas {background: #1e73be;}
+					.section-title.section--category-gerumas-kaip-gyvenimas:before {background: #004b96;}
+					.section-title.section--category-gerumas-kaip-gyvenimas:after {background: #50a5f0;}
+					.section-title.section--category-gerumas-kaip-gyvenimas span {color: #1e73be;}
+					.section-title.section--category-19614 {color: #1e73be!important;}
+					.section-title.section--category-19614:before {background: #1e73be;}
+					.section-title.section--category-19614 span {color: #1e73be;}
+					.section-title.section--category-19614:after {background: #50a5f0;}
+					ul.main-menu {background: #0071ce!important;}
+					#top-bar.is-author-page .logo img {background: #0071ce!important;}
+					ul.main-menu>li>a:hover {background: #003f9c!important;}
+					ul.main-menu>li>span.lspan:hover {background: #003f9c!important;}
+					</style><li class="menu--green menu--category-312"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/"><span>Aktualijos</span></a></li><li class="menu--green menu--category-127"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/seseliai/"><span>Šešėliai</span></a></li><li class="menu--green menu--category-128"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/sveikata/"><span>Sveikata</span></a></li><li class="menu--purple menu--category-120"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/kultura/"><span>Kultūra</span></a></li><li class="menu--yellow menu--category-123"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/sportas/"><span>Sportas</span></a></li><li class="menu--green menu--category-124"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/"><span>Verslas</span></a></li><li class="menu--blue menu--category-19614"><a href="https://sekunde.lt/leidinys/sekunde/kategorija/gerumas-kaip-gyvenimas/"><span>Gerumas kaip gyvenimas</span></a></li>                    <li class="leidiniai">
+                        <span class="lspan"><span class="img"></span>Pasirinkti leidinį</span>
+                        <span class="mob-exp mob-aut-exp cf">
+                            <div class="block block--authors">
+	<div class="block__head">
+		<img src="https://sekunde.lt/content/themes/ran/assets/img/notebook-icon.png" alt="">
+		<span>Leidiniai</span>
+	</div>
+	<div class="block__body">
+		<form action="https://sekunde.lt" class="author-search cf">
+			<select class="author-select sidebar-select" id="author-sel" onChange="document.location = this.value" data-placeholder="Pasirink leidinį">
+				<option value="" disabled selected>Pasirink leidinį</option>
+				<option value="https://sekunde.lt/leidinys/paneveziobalsas/">Panevėžio balsas</option><option value="https://sekunde.lt/leidinys/sekunde/">Sekundė</option>			</select>
+			<div id="author-select-dropdown"></div>
+		</form>
+		<ul class="taglist">
+						<li><a href="https://sekunde.lt/leidinys/paneveziobalsas/" title="Autorius: Panevėžio balsas"><img src="https://sekunde.lt/content/uploads/2022/06/LOGO_PB_WWW-5.jpg"></a></li><li><a href="https://sekunde.lt/leidinys/sekunde/" title="Autorius: Sekundė"><img src="https://sekunde.lt/content/uploads/2022/06/LOGO_SEKUNDE_WWW-1.jpg"></a></li>		</ul>
+	</div>
+	<div class="block__footer">
+		<a href="https://sekunde.lt/prisijunk/" class="btn btn--red">Prisijunk prie mūsų</a>
+	</div>
+</div>                            <div class="close-exp"><span>Uždaryti</span></div>
+                        </span>
+                    </li>
+                </ul>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+<!-- Del virsutinio banerio.napalm -->
+
+
+
+
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-xs-12 hero-con">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+
+
+
+	
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9 main-block">
+
+
+
+                <header class="article--hero inner--hero image-center-top" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/photo_973015.jpg);">
+                    
+	
+	<div class="breadcrumbs-wrap">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="breadcrumbs breadcrumbs-light">
+						<ul>
+							<li><a href="https://sekunde.lt">Pradžia</a></li>
+
+															<li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+							
+							
+															<li><a href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/">Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą</a></li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+                    <div class="article--hero_cover"></div>
+                                            <div class="photo-copyrights">
+                            <div class="container">
+                                <div class="photo-caption">Mariaus Morkevičiaus (ELTA) nuotr.</div>
+                            </div>
+                        </div>
+                                        <div class="tab-bot">
+                        <div class="article--hero_content in-in">
+                            <div class="vcell">
+                                <div class="container">
+                                    <div class="vtable">
+                                        <div class="vcell vcell--half">
+                                                                                            <h1 class="title">Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą</h1>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="article-inner-content">
+
+<!--                    -->                        <h1 class="title">Verslas prašo imtis skubių priemonių: siūlo kompensuoti dalį elektros kainos ar pirkti baltarusišką elektrą</h1>
+<!--                    -->
+                    <ul class="article-info cf">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/autoriai/elta/">ELTA</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li>2022.09.08 11:21</li>
+                                                                    </ul>
+
+                    <div style="margin-bottom: 25px;"><div class="g g-87"><div class="g-single a-239"><a onClick="ga('send', 'event', 'banner', 'click', 'GARSAS Tvanas PC', 1.00, {'nonInteraction': 1});" href="https://www.garsas.lt/filmas/lkd-2022-uzdarymas-tvano-nebus/" target="_blank" rel="nofollow"><img onload="ga('send', 'event', 'banner', 'impression', 'GARSAS Tvanas PC', 2.00, {'nonInteraction': 1});" src="https://sekunde.lt/content/uploads/2022/10/980-tvano.jpg" srcset="https://sekunde.lt/content/banners/ w" sizes="1281px" /></a></div></div></div>
+                    <h2>Smarkiai išaugus elektros kainoms, Lietuvos verslas prašo valstybės nedelsiant parengti pagalbos priemones, antraip įmonės gali prarasti konkurencinį pranašumą tarptautinėse rinkose ir pradėti atleidinėti darbuotojus.</h2>
+<p>Ketvirtadienį, neeiliniame Seimo Biudžeto ir finansų komiteto (BFK) posėdyje, stambiųjų Lietuvos bendrovių ir verslo asociacijų vadovai pasiūlė, kad valstybė nedelsiant turėtų kompensuoti dalį energijos kainos, taip pat svarstytų didinti vietinės generacijos apimtis arba pirkti elektrą iš Baltarusijos.</p>
+<p>Lietuvos pramonininkų konfederacijos (LPK) prezidentas Vidmantas Janulevičius kalbėjo, kad iš 4 tūkst. konfederacijos vienijančių įmonių, apie 60 proc. perka elektrą rinkos sąlygomis – dalis jų kainą dalinai užfiksavusios, dalis moka biržos kainas.<div style='padding-top: 8px; float: left; margin: 10px 20px 10px 0;'>
+                    <div id='div-gpt-ad-1602588536351-0'>
+                    <!-- /22142702982/sekunde.lt_300x250_article_1 -->
+                        <script type="text/javascript">
+                            inView('#div-gpt-ad-1602588536351-0').once('enter', (function() {
+                                googletag.cmd.push(function () {
+                                    googletag.defineSlot('/22142702982/sekunde.lt_300x250_article_1', [300, 250], 'div-gpt-ad-1602588536351-0').addService(googletag.pubads());
+                                    googletag.display('div-gpt-ad-1602588536351-0');
+                                });
+                            }));
+                        </script>
+                    </div>
+                </div></p>
+<p>Rinkos kainą mokančių įmonių dalis, pasak jo, tikėtina, kad augs, kadangi elektros tiekėjai nutraukia fiksuotos kainos sutartis ir įmonėms sumoka baudas, o šios „paleidžiamos“ į rinką.</p>
+<p>„Paleistų į rinką įmonių bus dar daugiau, tad procentas turėtų didėti. Dalinai kainas dalis fiksuojasi, bet fiksavimas yra apie 30 ct/kWh – 3,5 karto daugiau nei buvo iki šiol kaina“, – sakė V. Janulevičius.</p>
+<p>Jis pabrėžė, kad pandemijos metu, kuomet sulaukė aktyvios valstybės pagalbos, Lietuvos įmonės atrado daug naujų klientų pietinėse Europos ar trečiosiose šalyse, tačiau dėl aukštų energijos kainų kyla rizika juos „išbarstyti“.</p>
+<p>V. Janulevičiaus teigimu, verslas sėkmingai išsilaikytų, jei elektros tarifas neviršytų 20–25 ct/kWh.</p>
+<p>„Tiek dar galėtų pramonė galėtų patempti, bet viskas, kas yra daugiau, šiandien yra sudėtinga“, – sakė V. Janulevičius.</p>
+<p>Pasak LPK vadovo, pagal įsipareigojimus klientams, dėl kylančių energijos kaštų, produkcijos kainas įmonės gali didinti tik iki 5 proc., o ši riba „praeita seniai“.<div style='padding-top: 8px; float: left; margin: 10px 20px 10px 0;'>
+	                    <div id='div-gpt-ad-1602588573115-0'>
+	                    <!-- /22142702982/sekunde.lt_300x250_article_2 -->
+	                        <script type="text/javascript">
+	                            inView('#div-gpt-ad-1602588573115-0').once('enter', (function() {
+	                                googletag.cmd.push(function () {
+	                                    googletag.defineSlot('/22142702982/sekunde.lt_300x250_article_2', [300, 250], 'div-gpt-ad-1602588573115-0').addService(googletag.pubads());
+	                                    googletag.display('div-gpt-ad-1602588573115-0');
+	                                });
+	                            }));
+	                        </script>
+	                    </div>
+	                </div></p>
+<p>„Tolesnis kilimas – klausimas ar išliksime konkurencingi“, – pabrėžė V. Janulevičius.</p>
+<p>Kalbėdamas apie ilgalaikius sprendimus LPK vadovas teigė, kad valstybė turėtų suteikti didesnį kreditą paskoloms nuosavai generacijai įsirengti: „Reikia milijardo paskolų, ne subsidijų, kad verslas ilgainiui galėtų įsirengti nuosavą generacijos šaltinį. Jei kiekviena įmonės turėtų savo generacijos šaltinį, užsifiksuojame elektros kainą.“</p>
+<p>„Vakarų medienos grupės“ (VMG) direktorius Sigitas Paulauskas komiteto posėdyje pasiūlė, kad Lietuvoje reikėtų didinti elektros generaciją, energijos gamybai naudoti mazutą.</p>
+<p>S. Paulauskas taip pat svarstė jog, siekiant išlaikyti verslo konkurencingumą, būtų galima tam tikrus energijos kiekius pirkti iš Baltarusijos Astravo atominės elektrinės, kas uždrausta įstatymu.</p>
+<p>„Pamirštam tą savo vadinamą savo įstatymą ir perkam elektrą iš baltarusių, nes pas mus tokia situacija. Nes kam būsime reikalingi, jei mes viską sustabdysime“, – teigė VMG vadovas.</p>
+<p>Pasak „SBA grupės“ vadovo Arūno Martinkevičiaus, įmonė yra modernizavusi, automatizavusi sistemas sutaupė apie 10 proc. suvartojamos energijos, tačiau šiuo metu energijos išlaidos pakilo 10–13 kartų. A. Martinkevičius sveikino Vyriausybės iniciatyvas siūlyti ilgalaikes paramos priemones atsinaujinančios energetikos elektrinių įsirengimui, tačiau pabrėžė, kad būtinos trumpalaikės pagalbos priemonės.<div style='padding-top: 8px; float: left; margin: 10px 20px 10px 0;'>
+	                    <div id='div-gpt-ad-1602588602172-0'>
+	                    <!-- /22142702982/sekunde.lt_300x250_article_3 -->
+	                        <script type="text/javascript">
+	                            inView('#div-gpt-ad-1602588602172-0').once('enter', (function() {
+	                                googletag.cmd.push(function () {
+	                                    googletag.defineSlot('/22142702982/sekunde.lt_300x250_article_3', [300, 250], 'div-gpt-ad-1602588602172-0').addService(googletag.pubads());
+	                                    googletag.display('div-gpt-ad-1602588602172-0');
+	                                });
+	                            }));
+	                        </script>
+	                    </div>
+	                </div></p>
+<p>„Tikėčiausi didesnio ryžto iš Vyriausybės veikti, jei nenori sulaukti bankrotų. Ir čia galimai turėsime dar didesnį biudžeto nuosmukį“, – BFK posėdyje sakė jis.</p>
+<p>A. Martinkevičius parlamentarams pasiūlė, kad valstybė verslui galėtų kompensuoti bent 100 eurų už kiekvieną elektros ar dujų megavatvalandę.</p>
+<p>Suprantu, kad biudžetas ne „auksinis“, bet neturime kito pasirinkimo. Kelias šiandien būtų skolintis pinigus ir esant geresniems laikams skolą mažinti“, – pažymėjo A. Martinkevičius.</p>
+<p>„Linas Agro“ grupės vadovas Darius Zubas kalbėjo, kad itin sunku artėjančią žiemą bus paukštininkystės sektoriui – šios įmonės, pasak jo, gali patirti „dešimtmilijoninius“ nuostolius.</p>
+<p>„Norėtųsi sulaukti solidarumo ir vyriausybės pagalbos dengiant dalį energijos kaštų“, – kitiems verslo atstovas antrino A. Martinkevičius.</p>
+<p>Lietuvos maisto pramonės asociacijos pirmininkas Mindaugas Snarskis teigė, kad maisto pramonės įmonės dėl išaugusių energijos kaštų susiduria su „beprecedente“ situacija, jos taip pat gali prarasti eksporto rinkas užsienio įmonėms.<div style='padding-top: 8px; float: left; margin: 10px 20px 10px 0;'>
+                    <div id='div-gpt-ad-1602588602172-0-1'>
+                    <!-- /22142702982/sekunde.lt_300x250_article_3-2 -->
+                        <script type="text/javascript">
+                            inView('#div-gpt-ad-1602588602172-0-1').once('enter', (function() {
+                                googletag.cmd.push(function () {
+                                    googletag.defineSlot('/22142702982/sekunde.lt_300x250_article_3', [300, 250], 'div-gpt-ad-1602588602172-0-1').addService(googletag.pubads());
+                                    googletag.display('div-gpt-ad-1602588602172-0-1');
+                                });
+                            }));
+                        </script>
+                    </div>
+                </div></p>
+<p>„Konkurencingumas, prarastas vidutiniu ir ilguoju laikotarpiu, kainuos mūsų vartotojams. Ko neeksportuosime, to kainos anksčiau ar vėliau persikels vietos vartotojams“, – sakė M. Snarskis.</p>
+<p>Jis aiškino, kad maisto gamintojai ne tik gali pradėti atleidinėti darbuotojus, bet bus priversti taupyti produkcijos kokybės sąskaita.</p>
+<p>Šiaulių pramonininkų asociacijos prezidentas, plastiko gamybos įmonės vadovas Alvydas Stulpinas teigė, kad plastiko eksportas sudaro itin didelę viso šalies eksporto dalį, tačiau eksportuotojai tampa nekonkurencingi, kadangi elektros dedamoji produkto savikainoje sudaro 20-30 proc.</p>
+<p>„Prarandame konkurencijoje rinkas. Jos iškovotos per ilgus triūsus ir jas prarasti yra labai greita. Be greitų sprendimų tikrai jas prarasime, o šitame sektoriuje yra šimtai tūkstančių darbuotojų“, – posėdyje pastebėjo A. Stulpinas.</p>
+<p>Asociacijos „Investors‘ Forum“ valdybos pirmininkas Rolandas Valiūnas akcentavo, kad valstybė šiuo sudėtingu laikotarpiu turėtų „atsigręžti“ į vidutines ir stambias įmones. Iki šiol, pasak jo, valstybė manė, kad jos gali išgyventi pačios, o finansinė parama koncentruota smulkiajam verslui.<div style='padding-top: 8px; float: left; margin: 10px 20px 10px 0;'>
+                    <div id='div-gpt-ad-1602588602172-0-2'>
+                    <!-- /22142702982/sekunde.lt_300x250_article_3-3 -->
+                        <script type="text/javascript">
+                            inView('#div-gpt-ad-1602588602172-0-2').once('enter', (function() {
+                                googletag.cmd.push(function () {
+                                    googletag.defineSlot('/22142702982/sekunde.lt_300x250_article_3', [300, 250], 'div-gpt-ad-1602588602172-0-2').addService(googletag.pubads());
+                                    googletag.display('div-gpt-ad-1602588602172-0-2');
+                                });
+                            }));
+                        </script>
+                    </div>
+                </div></p>
+<p>„Pats laikas pasižiūrėti, kaip išgelbėti Lietuvos pramonės stuburą“, – pastebėjo R. Valiūnas.</p>
+<p>Jis teigė, kad pramonei reikia 1 GW elektros „sveiko proto kainomis“.</p>
+<p>R. Valiūnas kartu išsakė poziciją, kad derėtų svarstyti įvesti progresinius mokesčius, toliau lengvinti migracijos procedūras iš trečiųjų šalių įsivežamiems darbuotojams. Nors nuo rugpjūčio jos palaisvėjo, verslo atstovo įsitikinimu, Lenkijoje jos vis dar „dešimtimis“ kartų lengvėsnės.</p>
+<p>„Siūlome nesustoti, nes šiuo metu valstybei reikia pinigų, pinigai atsiranda iš mokesčių, o mokesčiai atsiranda iš verslo“, – ragino R. Valiūnas.</p>
+
+                    <div style="margin-bottom: 25px;"><!-- Either there are no banners, they are disabled or none qualified for this location! --></div>
+                    <ul class="article-info info-at-end cf">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/autoriai/elta/">ELTA</a></li>                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/elektra/">#Elektra</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/elektros-energija/">#elektros energija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pagalbos-priemones/">#pagalbos priemonės</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/verslas/">#Verslas</a></li>                        <li class="fb-share">
+                            <div class="fb-like" data-href="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/" data-layout="button"
+                                 data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+                            <script type="IN/Share" data-url="https://sekunde.lt/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/"></script>
+                        </li>
+                    </ul>
+
+
+                    
+<div class="article-comments" id="komentarai">
+
+	
+		<h3>Komentarai</h3>
+		<ul>
+			
+			<li class="comment even thread-even depth-1 comment-box " id="comment-118765" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+				<div class="comment">
+					<div class="comment-text"><p>elektrą iš baltarusių. Batka parduoda už 5 eur. centus už kwh.  O ta rinka &#8216;Nord Pool&#8217; mums siūlo pirkti už 85 centus.</p>
+</div>
+					<ul class="comment-info cf">
+						<li><span itemprop="author">Pirkim</span></li>
+						<li datetime="2022-09-08T18:17+03:00" itemprop="datePublished">18:17 2022.09.08</li>
+						<li><a href="#"><a rel='nofollow' class='comment-reply-link' href='#comment-118765' data-commentid="118765" data-postid="322931" data-belowelement="comment-118765" data-respondelement="respond" data-replyto="Atsakyti į Pirkim komentarą" aria-label='Atsakyti į Pirkim komentarą'>Atsakyti</a></a></li>
+					</ul>
+				</div>
+
+					</li>
+				</ul>
+		<a href="#" class="all-comments">Rodyti visus komentarus (1)</a>
+
+	
+	
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Jūsų komentaras <small><a rel="nofollow" id="cancel-comment-reply-link" href="/leidinys/sekunde/verslas-praso-valstybes-imtis-skubiu-priemoniu-siulo-kompensuoti-dali-elektros-kainos-ar-pirkti-baltarusiska-elektra/#respond" style="display:none;">Atšaukti atsakymą</a></small></h3><form action="https://sekunde.lt/wordpress/wp-comments-post.php" method="post" id="commentform" class="cf"><p class="comment-form-author cf"><input id="author" name="author" type="text" value="" size="30" placeholder="Vardas"/></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Noriu savo interneto naršyklėje išsaugoti vardą, el. pašto adresą ir interneto puslapį, kad jų nebereiktų įvesti iš naujo, kai kitą kartą vėl norėsiu parašyti komentarą.</label></p>
+<div class="g-recaptcha" data-sitekey="6Lc6ZakUAAAAAP46P2LSkjlFAJx5mu1F-uToG17G" data-theme="light"></div><p class="comment-form-comment cf"><textarea name="comment" id="comment" cols="45" rows="8" aria-required="true" placeholder="Komentaras"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Siųsti" /> <input type='hidden' name='comment_post_ID' value='322931' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+	
+</div>
+
+
+                    <div id='ad_300x250_mobile_general_1' style="padding: 20px 0 30px; text-align: center;">
+                        <script type="text/javascript">
+                            inView('#ad_300x250_mobile_general_1').once('enter', (function() {
+                                googletag.cmd.push(function () {
+
+					                                                    googletag.defineSlot('/22142702982/sekunde.lt_728x90_general', [728,90], 'ad_300x250_mobile_general_1').addService(googletag.pubads());
+					                
+                                    googletag.display('ad_300x250_mobile_general_1');
+                                });
+                            }));
+                        </script>
+                    </div>
+
+
+
+                    <style>
+                        #submit { top: 0 !important;}
+                    </style>
+
+                <div>
+                    <h3>Rekomenduojami video</h3>
+
+                    <div><script type="text/javascript" src="https://video.onnetwork.tv/widget/widget_scrolllist.php?widget=684"></script></div>
+                </div>
+
+                </div>
+
+                                    <div class="ad-after-single"><div class="g g-20"><div class="g-single a-17"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sekunde RUBRIKOS VISOS -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1446191084447477"
+     data-ad-slot="3174673151"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div>                
+				
+                
+                
+                    
+                        
+
+
+            <a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/" class="section-title title--green section--category-312"><span>Aktualijos</span></a>
+
+        <div class="main-content cf">
+    
+                    
+                                
+    <article  class="article-featured-double " id="post-327261">
+        <a href="https://sekunde.lt/leidinys/sekunde/liepsneles-donorams-atminti-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/Donoru-diena-minejimas-laisves-a-P.-Zidonio-10-629x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/liepsneles-donorams-atminti-2/" class="article-title">Liepsnelės – donorams atminti</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/akcija/">#Akcija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/organu-donoryste/">#organų donorystė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                </ul>
+            </div>
+        </div>
+    </article>
+
+            
+                                
+    <article  class="article-featured-double " id="post-327188">
+        <a href="https://sekunde.lt/leidinys/sekunde/valstybe-fiksuos-28-ct-kwh-galutine-visuomeninio-tiekimo-kaina/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/7475_Elektra_Kainos_Pinigai_Mokesciai_G_Kartanas-629x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/valstybe-fiksuos-28-ct-kwh-galutine-visuomeninio-tiekimo-kaina/" class="article-title">Valstybė fiksuos 28 ct/kWh galutinę visuomeninio tiekimo kainą</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/dujos/">#Dujos</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/elektra/">#Elektra</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/i-simonyte/">#I. Šimonytė</a></li>                </ul>
+            </div>
+        </div>
+    </article>
+
+            
+                                <div class="articles-wrap cf ">
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2021/12/pinigai-pajamos-mokesciai-eurai-P.-Zidonio-4-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/" class="article-title">Kitąmet – 83 eurais didesnė MMA</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/ekonomika/">#ekonomika</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/mma/">#MMA</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pensija/">#pensija</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/2025_Panevezio_Svietimo_Centras_G_Kartanas-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/" class="article-title">Kabintis į gyvenimą trukdo ne tik kalbos barjeras</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(9)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/gyventojai/">#gyventojai</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/miestas/">#miestas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/Automobiliu-aikstele-Smelynes-g.-P.-Zidonio-2-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/" class="article-title">Vairuotojams aikštelės teks palaukti</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/automobiliu-aikstele/">#automobilių aikštelė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/darzelis/">#darželis</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/baseinas-sporto-rumai-P.-Zidonio-2-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/" class="article-title">Sporto rūmuose – išsikraustymo nuotaikos</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/baseinas/">#baseinas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/remontas/">#remontas</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2021/03/zodiakas_laikrodis_small-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/" class="article-title">HOROSKOPAS spalio 7-ajai, penktadieniui</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/astrologija/">#astrologija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/horoskopas/">#Horoskopas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/likimas/">#likimas</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/08/photo_3431224-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/" class="article-title">D. Kreivys: seniai nematėme tokių žemų elektros kainų</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/photo_2938084-658x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/" class="article-title">Šeimų sąjūdis vėl žada protestuoti: leidimas išduotas iki 15 tūkst. žmonių</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/mitingas/">#Mitingas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/seimu-sajudis/">#Šeimų sąjūdis</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/atnaujinti-vaistineles-vairuotojai-tures-daugiau-laiko/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/automobilio-pirmosios-pagalbos-rinkinys-89400187-631x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/atnaujinti-vaistineles-vairuotojai-tures-daugiau-laiko/" class="article-title">Atnaujinti vaistinėles vairuotojai turės daugiau laiko</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/atnaujinti-vaistineles-vairuotojai-tures-daugiau-laiko/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pirmosios-pagalbos-rinkinys/">#pirmosios pagalbos rinkinys</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/vairuotojai/">#vairuotojai</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/nt-sandoriu-skaicius-siemet-bus-penktadaliu-kuklesnis/" class="article-image image-center-top" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/daugiabutis-miestas-1-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/nt-sandoriu-skaicius-siemet-bus-penktadaliu-kuklesnis/" class="article-title">NT sandorių skaičius šiemet bus penktadaliu kuklesnis</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/nt-sandoriu-skaicius-siemet-bus-penktadaliu-kuklesnis/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/nekilnojamasis-turtas/">#Nekilnojamasis turtas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/nt/">#NT</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                <div class="main-content_bottom clearfix">
+                    <a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/" class="btn btn--dark-blue simple-blue">Rodyti daugiau</a>
+                </div>
+
+            </div>			</div>
+
+
+                        
+                        
+
+
+            <a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/" class="section-title title--green section--category-124"><span>Verslas</span></a>
+
+        <div class="main-content cf">
+    
+                    
+                                
+    <article  class="article-featured-double " id="post-326353">
+        <a href="https://sekunde.lt/leidinys/sekunde/narkotizuoti-lietuvos-laukai-sansas-ukininkams-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/zemes-ukis-dirbami-laukai-krituliai-P.-Zidonio-9-629x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/narkotizuoti-lietuvos-laukai-sansas-ukininkams-2/" class="article-title">Narkotizuoti Lietuvos laukai – šansas ūkininkams</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </article>
+
+            
+                                
+    <article  class="article-featured-double " id="post-326259">
+        <a href="https://sekunde.lt/leidinys/sekunde/maitinimo-verslui-skelbia-paskutine-vakariene/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/Viesbutis-Romantic-Protesto-akcija-Paskutine-vakariene-Foto-I-Stulgaite-Kr-14-1-631x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/maitinimo-verslui-skelbia-paskutine-vakariene/" class="article-title">Maitinimo verslui skelbia paskutinę vakarienę</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lengvata/">#lengvata</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/maitinimo-istaigos/">#maitinimo įstaigos</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                </ul>
+            </div>
+        </div>
+    </article>
+
+            
+                                <div class="articles-wrap cf ">
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/iq-forume-panevezyje-apie-energetikos-ir-ekonomikos-krizes-bei-priesnuodzius-joms/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/PAN-2022_1920x1080_01-747x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/iq-forume-panevezyje-apie-energetikos-ir-ekonomikos-krizes-bei-priesnuodzius-joms/" class="article-title">IQ forume Panevėžyje – apie energetikos ir ekonomikos krizes bei priešnuodžius joms</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/iq-forume-panevezyje-apie-energetikos-ir-ekonomikos-krizes-bei-priesnuodzius-joms/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/2022/">#2022</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/forumas/">#forumas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/iq/">#IQ</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/svajoniu-vienkiemy-augina-ne-tik-arbuzus/" class="article-image image-center-top" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/arbuzas-augintoja-06-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/svajoniu-vienkiemy-augina-ne-tik-arbuzus/" class="article-title">Svajonių vienkiemy augina ne tik arbūzus</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/svajoniu-vienkiemy-augina-ne-tik-arbuzus/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                            <li><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-photo.png" alt="Galerija" class="photo-icon" title="Galerija"></li>
+                                                <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/arbuzai/">#arbūzai</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/bartkunu-kaimas/">#Bartkūnų kaimas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/melionai/">#melionai</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/finansu-ministerija-nusprende-pvm-lengvatos-nebeliks/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/kavine-baras-Mesmale-P.-Zidonio-1-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/finansu-ministerija-nusprende-pvm-lengvatos-nebeliks/" class="article-title">Finansų ministerija nusprendė – PVM lengvatos nebeliks</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/finansu-ministerija-nusprende-pvm-lengvatos-nebeliks/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lengvata/">#lengvata</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/maitinimo-istaigos/">#maitinimo įstaigos</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/120-m-jubilieju-mininti-kalnapilio-darykla-ypatinga-proga-atvere-duris-lankytojams/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/Ekskursija-Kalnapilio-darykloje-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/120-m-jubilieju-mininti-kalnapilio-darykla-ypatinga-proga-atvere-duris-lankytojams/" class="article-title">120 m. jubiliejų mininti „Kalnapilio“ darykla ypatinga proga atvėrė duris lankytojams</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/120-m-jubilieju-mininti-kalnapilio-darykla-ypatinga-proga-atvere-duris-lankytojams/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                            <li><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-photo.png" alt="Galerija" class="photo-icon" title="Galerija"></li>
+                                                <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                                <img src="https://sekunde.lt/content/themes/ran/assets/img/icon-promoted.png" alt="Užsakyta" class="promoted-icon smaller pull-right" title="Užsakyta">
+                                    </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/120-m-jubiliejus/">#120 m. jubiliejus</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/atvere-duris/">#atvėrė duris</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pramoninis-paveldas/">#pramoninis paveldas</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/su-naujos-kartos-biokuro-katilais-ir-ziema-nebaisi/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/DSC_9195-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/su-naujos-kartos-biokuro-katilais-ir-ziema-nebaisi/" class="article-title">Su naujos kartos biokuro katilais ir žiema nebaisi</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/su-naujos-kartos-biokuro-katilais-ir-ziema-nebaisi/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(3)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                                <img src="https://sekunde.lt/content/themes/ran/assets/img/icon-promoted.png" alt="Užsakyta" class="promoted-icon smaller pull-right" title="Užsakyta">
+                                    </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/auksta-kaina/">#aukšta kaina</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/biokuras/">#biokuras</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/granules/">#granulės</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/geras-interneto-svetaines-greitis-5-it-ekspertu-izvalgos/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/duomenu-centras-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/geras-interneto-svetaines-greitis-5-it-ekspertu-izvalgos/" class="article-title">Geras interneto svetainės greitis: 5 IT ekspertų įžvalgos</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/geras-interneto-svetaines-greitis-5-it-ekspertu-izvalgos/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/inzinerija-ir-technika/">Inžinerija ir technika</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                                <img src="https://sekunde.lt/content/themes/ran/assets/img/icon-promoted.png" alt="Užsakyta" class="promoted-icon smaller pull-right" title="Užsakyta">
+                                    </div>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/start-business-komanda/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/pexels-fauxels-3184418-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/start-business-komanda/" class="article-title">,,Start Business‘‘ Komanda</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/start-business-komanda/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                                <img src="https://sekunde.lt/content/themes/ran/assets/img/icon-promoted.png" alt="Užsakyta" class="promoted-icon smaller pull-right" title="Užsakyta">
+                                    </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/imones-steigimas/">#Įmonės steigimas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/internetine-svetaine/">#Internetinė svetainė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/mb-mazaja-bendrija/">#MB (Mažąją Bendriją)</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/uzimtumo-tarnyba-rugpjuti-gerejo-darbo-rinkos-rodikliai/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/04/Uzimtumo-tarnyba-Ukrainieciai-P.-Zidonio-17-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/uzimtumo-tarnyba-rugpjuti-gerejo-darbo-rinkos-rodikliai/" class="article-title">Užimtumo tarnyba: rugpjūtį gerėjo darbo rinkos rodikliai</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/uzimtumo-tarnyba-rugpjuti-gerejo-darbo-rinkos-rodikliai/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li><li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/bedarbiai/">#bedarbiai</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/darbo-rinka/">#darbo rinka</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                                
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/rekordines-saskaitas-skaiciuojantis-verslas-nerimauja-del-vyriausybes-tylos/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/zuvies-gamybos-cechas-90177691-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/rekordines-saskaitas-skaiciuojantis-verslas-nerimauja-del-vyriausybes-tylos/" class="article-title">Rekordines sąskaitas skaičiuojantis verslas nerimauja dėl Vyriausybės tylos</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/rekordines-saskaitas-skaiciuojantis-verslas-nerimauja-del-vyriausybes-tylos/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/">Verslas</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/energija/">#Energija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pagalba/">#pagalba</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+            
+                <div class="main-content_bottom clearfix">
+                    <a href="https://sekunde.lt/leidinys/sekunde/kategorija/verslas/" class="btn btn--dark-blue simple-blue">Rodyti daugiau</a>
+                </div>
+
+            </div>			</div>
+
+
+                        
+                
+                
+
+
+
+    <div id='ad_300x250_mobile_general_2' style="padding: 20px 0 30px; text-align: center;">
+        <script type="text/javascript">
+            inView('#ad_300x250_mobile_general_2').once('enter', (function() {
+                googletag.cmd.push(function () {
+
+					                    googletag.defineSlot('/22142702982/sekunde.lt_728x90_general', [728,90], 'ad_300x250_mobile_general_2').addService(googletag.pubads());
+					
+                    googletag.display('ad_300x250_mobile_general_2');
+                });
+            }));
+        </script>
+    </div>
+
+
+
+	<div class="section-title title--blue"><span>Daugiau leidinio naujienų</span></div>
+	<div class="main-content cf ss">
+
+		
+						
+    <article  class="article-featured-double " id="post-327261">
+        <a href="https://sekunde.lt/leidinys/sekunde/liepsneles-donorams-atminti-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/Donoru-diena-minejimas-laisves-a-P.-Zidonio-10-629x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/liepsneles-donorams-atminti-2/" class="article-title">Liepsnelės – donorams atminti</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/akcija/">#Akcija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/organu-donoryste/">#organų donorystė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                </ul>
+            </div>
+        </div>
+    </article>
+
+		
+						
+    <article  class="article-featured-double " id="post-327201">
+        <a href="https://sekunde.lt/leidinys/sekunde/panevezieciu-meno-darbai-artvilnius22/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/ArtVilnius-2022-Foto-I-Stulgaite-Kriukiene-23-560x420.jpg);"></a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/panevezieciu-meno-darbai-artvilnius22/" class="article-title">Panevėžiečių meno darbai – „ArtVilnius‘22“</a>
+            <div class="article-meta">
+                <ul class="article-nav">
+                    <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/kultura/">Kultūra</a></li>                    <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/artvilnius/">#ArtVilnius</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/aukstaitijos-senvage/">#Aukštaitijos Senvagė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/kultura/">#Kultūra</a></li>                </ul>
+            </div>
+        </div>
+    </article>
+
+		
+						<div class="articles-wrap cf ">
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/senatves-pensija-turintiems-butinaji-staza-dides-65-eurais/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2020/10/senjorai-5-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/senatves-pensija-turintiems-butinaji-staza-dides-65-eurais/" class="article-title">Senatvės pensija, turintiems būtinąjį stažą, didės 65 eurais</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/senatves-pensija-turintiems-butinaji-staza-dides-65-eurais/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                                                <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/imoka/">#įmoka</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pensija/">#pensija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pinigai/">#pinigai</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/valstybe-fiksuos-28-ct-kwh-galutine-visuomeninio-tiekimo-kaina/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/09/7475_Elektra_Kainos_Pinigai_Mokesciai_G_Kartanas-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/valstybe-fiksuos-28-ct-kwh-galutine-visuomeninio-tiekimo-kaina/" class="article-title">Valstybė fiksuos 28 ct/kWh galutinę visuomeninio tiekimo kainą</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/valstybe-fiksuos-28-ct-kwh-galutine-visuomeninio-tiekimo-kaina/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/dujos/">#Dujos</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/elektra/">#Elektra</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/i-simonyte/">#I. Šimonytė</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2021/12/pinigai-pajamos-mokesciai-eurai-P.-Zidonio-4-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/" class="article-title">Kitąmet – 83 eurais didesnė MMA</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/kitamet-83-eurais-didesne-mma/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/ekonomika/">#ekonomika</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/mma/">#MMA</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/pensija/">#pensija</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/2025_Panevezio_Svietimo_Centras_G_Kartanas-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/" class="article-title">Kabintis į gyvenimą trukdo ne tik kalbos barjeras</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/kabintis-i-gyvenima-trukdo-ne-tik-kalbos-barjeras-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(9)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/gyventojai/">#gyventojai</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/miestas/">#miestas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/Automobiliu-aikstele-Smelynes-g.-P.-Zidonio-2-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/" class="article-title">Vairuotojams aikštelės teks palaukti</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/vairuotojams-aiksteles-teks-palaukti-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(1)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/automobiliu-aikstele/">#automobilių aikštelė</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/darzelis/">#darželis</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/baseinas-sporto-rumai-P.-Zidonio-2-629x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/" class="article-title">Sporto rūmuose – išsikraustymo nuotaikos</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/sporto-rumuose-issikraustymo-nuotaikos-2/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/baseinas/">#baseinas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/panevezys/">#Panevėžys</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/remontas/">#remontas</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2021/03/zodiakas_laikrodis_small-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/" class="article-title">HOROSKOPAS spalio 7-ajai, penktadieniui</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/horoskopas-spalio-7-ajai-penktadieniui/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/astrologija/">#astrologija</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/horoskopas/">#Horoskopas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/likimas/">#likimas</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/08/photo_3431224-630x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/" class="article-title">D. Kreivys: seniai nematėme tokių žemų elektros kainų</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/d-kreivys-seniai-nemateme-tokiu-zemu-elektros-kainu/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+
+		
+						
+    <div class="article-default-triple">
+        <a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/" class="article-image image-center-center" style="background-image:url(https://sekunde.lt/content/uploads/2022/10/photo_2938084-658x420.jpg);">
+                    </a>
+        <div class="article-info">
+            <a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/" class="article-title">Šeimų sąjūdis vėl žada protestuoti: leidimas išduotas iki 15 tūkst. žmonių</a>
+            <div class="article-meta">
+                <div class="meta-top cf">
+                    <ul class="article-icons">
+                    </ul>
+                    <ul class="article-nav">
+                        <li><a href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/#komentarai"><img src="https://sekunde.lt/content/themes/ran/assets/img/icon-comments-gray.png" alt="Komentarai" class="comment-icon" title="Komentarai"><span>(0)</span></a></li>
+                                                                        <li><a href="https://sekunde.lt/leidinys/sekunde/kategorija/aktualijos/">Aktualijos</a></li>                        <li><a href="https://sekunde.lt/leidinys/sekunde/">Sekundė</a></li>
+                    </ul>
+                                                        </div>
+                                    <ul class="article-tags">
+                        <li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/lietuva/">#Lietuva</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/mitingas/">#Mitingas</a></li><li class="post-tag"><a href="https://sekunde.lt/leidinys/sekunde/zyma/seimu-sajudis/">#Šeimų sąjūdis</a></li>                    </ul>
+                            </div>
+        </div>
+    </div>
+
+				
+			<div class="main-content_bottom clearfix">
+				<a href="https://sekunde.lt/leidinys/sekunde/" class="btn btn--dark-blue simple-blue">Rodyti daugiau</a>
+			</div>
+
+		</div>		
+	</div>
+
+
+            </div>
+
+            
+
+	
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 sidebar-block ">
+
+		
+		
+			
+
+			
+				
+                <div class="block block--hashtags skel-block" style="display:none;">
+                    <div class="block__head">
+                        <img src="https://sekunde.lt/content/themes/ran/assets/img/hashtag-icon.png" alt="">
+                        <span>Skelbimai</span>
+                    </div>
+                    <div class="block__body">
+                        <a class="adv-button" href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/">Žiūrėti skelbimus (0)</a>
+                        <a class="adv-button" href="https://sekunde.lt/leidinys/sekunde/seimu-sajudis-vel-zada-protestuoti-leidimas-isduotas-iki-15-tukst-zmoniu/">Įkelti skelbimą</a>
+                    </div>
+                </div>
+			
+
+			<!-- iBILLBOARD Ad Server one2many Position: go.adlt.bbelements.com naujienos.lt(24105) / Visa aplinka(1) / 300x250(2) / 300x250(3)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+
+
+<div class="ad-sidebar">
+    </div>
+
+										<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://sekunde.lt/pdf-prenumerata/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/10/300x300_1_psl_SEK-01-4.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://sekunde.lt/pdf-prenumerata/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/09/300x300_1_psl_PB-01-4.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://www.senjoro.lt" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/10/Sekunde-Panevezys-baneris300-×-600-px.gif"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://www.garsas.lt/filmas/lkd-2022-uzdarymas-tvano-nebus/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/10/300x300-tvano.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://www.panriv.lt" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2020/02/Rivile-300x250.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://romapanevezys.lt/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/03/ROMA_300.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://kakava.lt/renginys/muzikos-tiltai-lietuva-ukraina/3986/7499" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/09/300.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="http://www.srtfondas.lt/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2022/01/Projektu_remimas_2022-01.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://sekunde.lt/apie-sekunde/sekunde-kontaktai/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2018/08/PRANESK_NAUJIENA-01-1.jpg"/>
+						</a>
+					</div>
+				</div>
+								<div class="block block--widget block--specific">
+					<div class="block__inner">
+						<a href="https://sekunde.lt/leidinys/ricardas/kodeksas/" target="_blank">
+							<img src="https://sekunde.lt/content/uploads/2020/04/kodeksas-01-2.png"/>
+						</a>
+					</div>
+				</div>
+				
+			<div class="g g-26"><div class="g-col b-26 a-184"><!-- /22142702982/sekunde.lt_300x600_sidebar_2 -->
+<div id='div-gpt-ad-1602588963699-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602588963699-0'); });
+  </script>
+</div></div><div class="g-col b-26 a-187"><!-- /22142702982/sekunde.lt_300x600_sidebar_6 -->
+<div id='div-gpt-ad-1602589071650-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602589071650-0'); });
+  </script>
+</div></div></div><div class="g g-26"><div class="g-col b-26 a-18"><!-- /22142702982/sekunde.lt_300x600_sidebar_1 -->
+<div id='div-gpt-ad-1602588928156-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602588928156-0'); });
+  </script>
+</div></div><div class="g-col b-26 a-185"><!-- /22142702982/sekunde.lt_300x600_sidebar_3 -->
+<div id='div-gpt-ad-1602588991505-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602588991505-0'); });
+  </script>
+</div></div></div><div class="g g-26"><div class="g-col b-26 a-186"><!-- /22142702982/sekunde.lt_300x600_sidebar_5 -->
+<div id='div-gpt-ad-1602589045883-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602589045883-0'); });
+  </script>
+</div></div><div class="g-col b-26 a-175"><!-- /22142702982/sekunde.lt_300x600_sidebar_4 -->
+<div id='div-gpt-ad-1602589018733-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1602589018733-0'); });
+  </script>
+</div></div></div>
+			<div class="block block--hashtags">
+	<div class="block__head">
+		<img src="https://sekunde.lt/content/themes/ran/assets/img/hashtag-icon.png" alt="">
+		<span>Populiariausia</span>
+	</div>
+	<div class="block__body">
+				
+		<ul class="hashlist">
+							<li><a href="https://sekunde.lt/zyma/gerumas-kaip-gyvenimas/" class="tag-cloud-link tag-link-19595 tag-link-position-1" style="font-size: 12pt;">Gerumas kaip gyvenimas</a></li>
+							<li><a href="https://sekunde.lt/zyma/savaitgalio-tema/" class="tag-cloud-link tag-link-14738 tag-link-position-2" style="font-size: 12pt;">savaitgalio tema</a></li>
+							<li><a href="https://sekunde.lt/zyma/savaites-receptas/" class="tag-cloud-link tag-link-16451 tag-link-position-3" style="font-size: 12pt;">savaitės receptas</a></li>
+							<li><a href="https://sekunde.lt/zyma/profilis-jauni/" class="tag-cloud-link tag-link-13308 tag-link-position-4" style="font-size: 12pt;">Profilis Jauni</a></li>
+							<li><a href="https://sekunde.lt/zyma/atminties-vartai/" class="tag-cloud-link tag-link-15565 tag-link-position-5" style="font-size: 12pt;">Atminties vartai</a></li>
+							<li><a href="https://sekunde.lt/zyma/gyvenimo-budas/" class="tag-cloud-link tag-link-511 tag-link-position-6" style="font-size: 12pt;">gyvenimo būdas</a></li>
+							<li><a href="https://sekunde.lt/zyma/jaunimo-kurybos-erdve/" class="tag-cloud-link tag-link-3061 tag-link-position-7" style="font-size: 12pt;">Jaunimo kūrybos erdvė</a></li>
+							<li><a href="https://sekunde.lt/zyma/aukstaitijos-senvage/" class="tag-cloud-link tag-link-416 tag-link-position-8" style="font-size: 12pt;">Aukštaitijos Senvagė</a></li>
+							<li><a href="https://sekunde.lt/zyma/panevezys/" class="tag-cloud-link tag-link-249 tag-link-position-9" style="font-size: 12pt;">Panevėžys</a></li>
+					</ul>
+	</div>
+</div>
+
+            <!-- Apklausa -->
+			<!-- <div id="polls-2" class="wp-polls">
+	<form id="polls_form_2" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_2_nonce" name="wp-polls-nonce" value="1ae746e1cf" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="2" /></p>
+		<p style="text-align: center;"><strong>TestasApklausa</strong></p><div id="polls-2-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-6" name="poll_2" value="6" /> <label for="poll-answer-6">taip</label></li>
+		<li><input type="radio" id="poll-answer-7" name="poll_2" value="7" /> <label for="poll-answer-7">ne</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(2);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(2); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+ -->
+
+
+            <!--        <div class="wpp-head">Populiariausios</div>-->
+            <!--        -->            <!---->
+            <!--        -->            <!---->
+            <!--        <div class="wpp-head">Naujausios</div>-->
+            <!--        <ul class="wpp-list">-->
+            <!--            -->            <!--        </ul>-->
+
+            <div class="sticky-ad">
+				            </div>
+
+		
+    </div>
+
+
+
+        </div>
+    </div>
+
+
+	<footer>
+		<div class="top">
+			<div class="container cf">
+				<a href="https://sekunde.lt" class="logo"><img
+						src="https://sekunde.lt/content/themes/ran/assets/img/logo_big.svg" alt="Naujienos"></a>
+				<ul class="links">
+					<li class=""><a href="https://sekunde.lt/kategorija/lietuva/"><span>Lietuva</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/verslas/"><span>Verslas</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/pasaulis/"><span>Pasaulis</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/laisvalaikis/"><span>Laisvalaikis</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/bustas/"><span>Būstas</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/sportas/"><span>Sportas</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/sveikata/"><span>Sveikata</span></a></li><li class=""><a href="https://sekunde.lt/kategorija/automobiliai/"><span>Automobiliai</span></a></li>				</ul>
+			</div>
+		</div>
+		<div class="bottom">
+			<div class="container cf">
+				<div class="copyright">Visos teisės saugomos.<br>&copy; 2022  ON Media, UAB</div>
+				<ul class="links">
+										<li>
+						<a class="ffa" href="https://www.facebook.com/sekunde/" target="_blank"></a>					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+
+
+
+			<script type="text/javascript">
+				jQuery(document).ready(function(){
+					var wpfcWpfcAjaxCall = function(polls){
+						if(polls.length > 0){
+							poll_id = polls.last().attr('id').match(/\d+/)[0];
+
+							jQuery.ajax({
+								type: 'POST', 
+								url: pollsL10n.ajax_url,
+								dataType : "json",
+								data : {"action": "wpfc_wppolls_ajax_request", "poll_id": poll_id, "nonce" : "a17f5da491"},
+								cache: false, 
+								success: function(data){
+									if(data === true){
+										poll_result(poll_id);
+									}else if(data === false){
+										poll_booth(poll_id);
+									}
+									polls.length = polls.length - 1;
+
+									setTimeout(function(){
+										wpfcWpfcAjaxCall(polls);
+									}, 1000);
+								}
+							});
+						}
+					};
+
+					var polls = jQuery('div[id^=\"polls-\"][id$=\"-loading\"]');
+					wpfcWpfcAjaxCall(polls);
+				});
+			</script><script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/sekunde.lt\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.8.14' id='opinionstage-shortcodes-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/sekunde.lt\/wordpress\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"0","show_fading":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/plugins/wp-polls/polls-js.js?ver=2.77.0' id='wp-polls-js'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyAh-7ourxaioMiXjdNTSYnaWl7MK3PoSPg&#038;language=lt' id='ran-google-maps-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/js/vendor.js?ver=20180316' id='ran-vendor-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/js/addtohomescreen.js?ver=20180316' id='ran-ath-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/js/moment.js?ver=20180316' id='ran-moment-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/js/moment-timezone.js?ver=20180316' id='ran-moment-tz-js'></script>
+<script type='text/javascript' id='ran-prod-js-extra'>
+/* <![CDATA[ */
+var ranAdminUrl = ["https:\/\/sekunde.lt\/wordpress\/wp-admin\/admin-ajax.php"];
+var ranJsVariables = {"range":"0","contactLat":"55.72949850000001","contactLng":"24.340402499999982"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/js/prod.js?ver=20180316' id='ran-prod-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/content/themes/ran/assets/geo.js?ver=20180316' id='ran-geo-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/comment-reply.min.js?ver=5.8.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://sekunde.lt/wordpress/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+
+</body>
+</html>

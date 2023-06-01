@@ -1,0 +1,3381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="hu">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Szegedi Tudományegyetem | Képzés a tudatosabb IT-biztonságért</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<!--meta-->
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<meta name="robots" content="index, follow, noarchive">
+<meta name="rating" content="General">
+<meta name="doc-type" content="Public">
+<meta name="doc-class" content="Living Document">
+<meta name="copyright" content="(C)2008 Szegedi Tudományegyetem">
+<meta name="DC.title" content="Szegedi Tudományegyetem | Képzés a tudatosabb IT-biztonságért">
+<meta name="author" content="Szegedi Tudományegyetem">
+<meta name="publisher" content="Szegedi Tudományegyetem">
+<meta name="DC.publisher" content="Szegedi Tudományegyetem">
+<meta name="DC.date" content="2022-10-10">
+<meta name="DCTERMS.issued" content="2022-10-10">
+<meta name="DCTERMS.modified" content="2022-10-10">
+<meta name="DC.type" content="n">
+<meta name="DC.format" content="text/html">
+<meta name="DC.identifier" content="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it">
+<meta name="language" content="hu">
+<meta name="DC.language" content="hu">
+<meta name="keywords" content="SZTE, szeged, egyetem, tudomány">
+<meta name="DC.keywords" content="SZTE, szeged, egyetem, tudomány">
+<meta name="description" content="
+
+Hogyan lehet felismerni egy csaló telefonhívást vagy csaló e-mailt? Melyek az igazán erős jelszó ismérvei? Milyen biztonsági incidensek érhetik a munkahelyen és mobiltelefon használata során? Ezekere a kérdésekre is választ kapnak azok az SZTE-dolgozók, akik a most induló képzésen részt vesznek. Részletek és jelentkezés a cikkben.">
+<meta name="DC.description" content="
+
+Hogyan lehet felismerni egy csaló telefonhívást vagy csaló e-mailt? Melyek az igazán erős jelszó ismérvei? Milyen biztonsági incidensek érhetik a munkahelyen és mobiltelefon használata során? Ezekere a kérdésekre is választ kapnak azok az SZTE-dolgozók, akik a most induló képzésen részt vesznek. Részletek és jelentkezés a cikkben.">
+<meta name="generator" content="Webra 3.0">
+<!--css-->
+<link type="text/css" rel="alternate stylesheet" href="/css/blank.css" title="nagykontraszt">
+<link type="text/css" rel="stylesheet" href="/site/design3/bootstrap_3_3_7/css/bootstrap.css?ts=1469454808" title="">
+<link type="text/css" rel="stylesheet" href="/site/design3/bootstrap_3_3_7/css/bootstrap-theme.css?ts=1469454808" title="">
+<link type="text/css" rel="stylesheet" href="/mods/jquery/css/ui-lightness/jquery-ui-1.10.3.custom.css?ts=1404747694" title="">
+<link type="text/css" rel="stylesheet" href="/css/webra3_public_module_design.css?ts=1634320513" title="">
+<link type="text/css" rel="stylesheet" href="/css/lightwindow.css?ts=1404747694" title="">
+<link type="text/css" rel="stylesheet" href="/mods/lightgallery/css/lightgallery.min.css?ts=1564652226" title="">
+<link type="text/css" rel="stylesheet" href="/site/design3/css/site.css?ts=1652423153" title="">
+<link type="text/css" rel="stylesheet" href="/css/webra3_user.php?schemaID=3866&amp;timestamp=1665472550&amp;ts=1404747694" title="">
+<link type="text/css" rel="alternate stylesheet" href="/site/design3/css/highcontrast.css?ts=1627409054" title="nagykontraszt">
+<!--script-->
+<script type="text/javascript" src="/js/lang.php?ts=1573547658&amp;timestamp=1665472573"></script>
+<script type="text/javascript" src="/js/webra3.js?ts=1549457782"></script>
+<script type="text/javascript" src="/js/aitia/aitia.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/aitia/aitia_browser.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/aitia/aitia_style.js?ts=1564652225"></script>
+<script type="text/javascript" src="/js/aitia/aitia_position.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/aitia/aitia_cookie.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/aitia/aitia_url.js?ts=1569918997"></script>
+<script type="text/javascript" src="/js/aitia/aitia_util.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/aitia/aitia_event.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/aitia/aitia_user.js?ts=1571913056"></script>
+<script type="text/javascript" src="/js/aitia/aitia_dom.js?ts=1634320513"></script>
+<script type="text/javascript" src="/js/aitia/aitia_xml.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/aitia/aitia_dnd.js?ts=1404747007"></script>
+<script type="text/javascript" src="/js/aitia/aitia_ajax.js?ts=1549457782"></script>
+<script type="text/javascript" src="/js/webra3_admin_onload.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/ad.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/form/phpjs.js?ts=1634320513"></script>
+<script type="text/javascript" src="/js/webra3_gui.js?ts=1658909764"></script>
+<script type="text/javascript" src="/js/popup/popup.js?ts=1404747695"></script>
+<script type="text/javascript" src="/js/search.js?ts=1404747695"></script>
+<script type="text/javascript" src="/mods/jquery/js/jquery-1.9.1.js?ts=1404747694"></script>
+<script type="text/javascript" src="/js/scriptaculous/prototype.js?ts=1415801043"></script>
+<script type="text/javascript" src="/js/scriptaculous/builder.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/scriptaculous/effects.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/scriptaculous/dragdrop.js?ts=1401959690"></script>
+<script type="text/javascript" src="/js/scriptaculous/controls.js?ts=1549457782"></script>
+<script type="text/javascript" src="/js/scriptaculous/slider.js?ts=1404747695"></script>
+<script type="text/javascript" src="/js/scriptaculous/sound.js?ts=1401959690"></script>
+<script type="text/javascript" src="/mods/jquery/js/jquery-ui-1.10.3.custom.js?ts=1404747694"></script>
+<script type="text/javascript" src="/site/design3/bootstrap_3_3_7/js/bootstrap.js?ts=1469454808"></script>
+<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js?ts=1404747695"></script>
+<script type="text/javascript" src="/js/scriptaculous/lightWindow.js?ts=1404747695"></script>
+<script type="text/javascript" src="/mods/lightgallery/lib/jquery.mousewheel.min.js?ts=1564652226"></script>
+<script type="text/javascript" src="/mods/lightgallery/js/lightgallery-all.min.js?ts=1564652226"></script>
+<script type="text/javascript" src="/site/design3/js/site.js?ts=1658830919"></script>
+<!--other-->
+<link rel="shortcut icon" href="/site/img/design/favicon.ico" type="image/x-icon">
+<!--other static-->
+<meta property="og:title" content="Képzés a tudatosabb IT-biztonságért" />
+<meta property="og:description" content="
+
+Hogyan lehet felismerni egy csaló telefonhívást vagy csaló e-mailt? Melyek az igazán erős jelszó ismérvei? Milyen biztonsági incidensek érhetik a munkahelyen és mobiltelefon használata során? Ezekere a kérdésekre is választ kapnak azok az SZTE-dolgozók, akik a most induló képzésen részt vesznek. Részletek és jelentkezés a cikkben." />
+<meta property="og:image" content="https://u-szeged.hu/site/upload/2022/10/pexels_pixabay_60504.jpg" />
+<link rel="image_src" href="https://u-szeged.hu/site/upload/2022/10/pexels_pixabay_60504.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+	<div id="back_to_top_anchor"></div>
+	
+	<div id="header_container">
+		<div class="hidden-xs">
+			<!-- Nem mobil nézet -->
+			<div id="header_top" class="backgroundBlueColor">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 mainMenuTop signedLastItem">
+							<!-- Főmenü top 1 -->
+							<ul class="nav nav-tabs" id="udm_2">
+<li id="laddermenu_ul_2_57520_li__num1" class="dummy_class 
+		 active firstItem signedItem laddermenu_item_57520 dummy_class" data-folderid="57520"><a href="/szte-kezdooldal" target="_self" title="" onclick="">SZTE kezdőoldal</a></li>
+<li id="laddermenu_ul_2_28428_li__num2" class="dummy_class 
+		 laddermenu_item_28428 dummy_class" data-folderid="28428"><a href="/felveteli" target="_self" title="" onclick="">Felvételi</a></li>
+<li id="laddermenu_ul_2_57521_li__num3" class="dummy_class 
+		 laddermenu_item_57521 dummy_class" data-folderid="57521"><a href="/hallgatoknak-210823" target="_self" title="" onclick="">Hallgatóknak</a></li>
+<li id="laddermenu_ul_2_57523_li__num4" class="dummy_class 
+		 laddermenu_item_57523 dummy_class" data-folderid="57523"><a href="/munkatarsaknak-210823" target="_self" title="" onclick="">Munkatársaknak</a></li>
+<li id="laddermenu_ul_2_25237_li__num5" class="dummy_class 
+		 lastItem laddermenu_item_25237 dummy_class" data-folderid="25237"><a href="https://uniszegedalumni.com/" target="_blank" title="" onclick="">Alumni</a></li>
+</ul>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 subMenuTop">
+							<!-- Fejléc almenü -->
+							
+	
+		
+			<ul>
+	<li><a href="/telefonkonyv" title="Telefonkönyv" target="_self">Telefonkönyv</a></li>
+	<li><a href="/egyetemrol/kapcsolat" title="Kapcsolat" target="_self">Kapcsolat</a></li>
+	<li><a href="/english" title="English" target="_self">English</a></li>
+</ul>
+
+		
+	
+
+						</div>
+					</div>
+				</div>
+			</div>
+	
+			<div id="header_bottom" class="backgroundWhite">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-1 col-md-1 col-sm-6 col-xs-12 mainLogo">
+							<!-- Logó cikk -->
+							
+	
+		
+			<p><a href="/" title="Főoldal"><img src="/site/design3/img/szte_logo.png" alt="Főoldal"></a><br></p>
+		
+	
+
+						</div>
+						<div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 mainMenuSub">
+							<!-- Főmenü 2-3 + 2db kiemelt hír -->
+							<ul id="udm_5">
+<li id="laddermenu_ul_5_57520_li__num66" class="dummy_class 
+		 hasChild active firstItem signedItem laddermenu_item_57520 dummy_class" data-folderid="57520">
+<a id="laddermenu_ul_5_57520_li_a__num66" href="/szte-kezdooldal" target="_self" title="" onclick="">SZTE kezdőoldal</a><ul class="nav nav-tabs">
+<li id="laddermenu_ul_5_25264_li__num17" class="dummy_class 
+		 hasChild dropdown firstItem laddermenu_item_25264 dummy_class" data-folderid="25264">
+<a id="laddermenu_ul_5_25264_li_a__num17" href="/bemutatkozas" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Az Egyetemről</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__25264_li_a__num17">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_25269_li__num1" class="dummy_class 
+		 firstItem laddermenu_item_25269 dummy_class" data-folderid="25269"><a href="/rektori-koszonto" target="_self" title="" onclick="">Rektori köszöntő</a></li>
+<li id="laddermenu_ul_5_58771_li__num2" class="dummy_class 
+		 laddermenu_item_58771 dummy_class" data-folderid="58771"><a href="/bemutatkozas/fenntarto-szegedi-tudomanyegyetemert-alapitvany" target="_self" title="" onclick="">Szegedi Tudományegyetemért Alapítvány</a></li>
+<li id="laddermenu_ul_5_25268_li__num3" class="dummy_class 
+		 laddermenu_item_25268 dummy_class" data-folderid="25268"><a href="/bemutatkozas" target="_self" title="" onclick="">Bemutatkozás</a></li>
+<li id="laddermenu_ul_5_25266_li__num4" class="dummy_class 
+		 laddermenu_item_25266 dummy_class" data-folderid="25266"><a href="/szervezeti-felepites" target="_self" title="" onclick="">Szervezeti felépítés</a></li>
+<li id="laddermenu_ul_5_33130_li__num5" class="dummy_class 
+		 laddermenu_item_33130 dummy_class" data-folderid="33130"><a href="/kozerdeku-adatok" target="_blank" title="" onclick="">Közérdekű adatok</a></li>
+<li id="laddermenu_ul_5_52759_li__num6" class="dummy_class 
+		 laddermenu_item_52759 dummy_class" data-folderid="52759"><a href="/eugyint" target="_self" title="" onclick="">E-ügyintézés</a></li>
+<li id="laddermenu_ul_5_28404_li__num7" class="dummy_class 
+		 laddermenu_item_28404 dummy_class" data-folderid="28404"><a href="/alapitvanyok" target="_self" title="" onclick="">Alapítványok</a></li>
+<li id="laddermenu_ul_5_25265_li__num8" class="dummy_class 
+		 lastItem laddermenu_item_25265 dummy_class" data-folderid="25265"><a href="/professzorikar" target="_self" title="" onclick="">Professzori kar</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_26655_li__num9" class="dummy_class 
+		 firstItem laddermenu_item_26655 dummy_class" data-folderid="26655"><a href="/akademikusok" target="_self" title="" onclick="">Akadémikusaink</a></li>
+<li id="laddermenu_ul_5_30502_li__num10" class="dummy_class 
+		 laddermenu_item_30502 dummy_class" data-folderid="30502"><a href="/diszdoktoraink" target="_self" title="" onclick="">Díszdoktoraink</a></li>
+<li id="laddermenu_ul_5_38426_li__num11" class="dummy_class 
+		 laddermenu_item_38426 dummy_class" data-folderid="38426"><a href="/olimpikonjaink" target="_self" title="" onclick="">Olimpikonjaink</a></li>
+<li id="laddermenu_ul_5_35748_li__num12" class="dummy_class 
+		 laddermenu_item_35748 dummy_class" data-folderid="35748"><a href="/eli-alps" target="_self" title="" onclick="">ELI-ALPS, a szegedi lézeres kutatóközpont</a></li>
+<li id="laddermenu_ul_5_3489_li__num13" class="dummy_class 
+		 laddermenu_item_3489 dummy_class" data-folderid="3489"><a href="/szabalyzatok" target="_self" title="" onclick="">Szabályzatok</a></li>
+<li id="laddermenu_ul_5_49078_li__num14" class="dummy_class 
+		 laddermenu_item_49078 dummy_class" data-folderid="49078"><a href="/egyetemtortenet" target="_self" title="" onclick="">Egyetemtörténet</a></li>
+<li id="laddermenu_ul_5_52882_li__num15" class="dummy_class 
+		 laddermenu_item_52882 dummy_class" data-folderid="52882"><a href="/centenarium" target="_blank" title="" onclick="">Centenárium</a></li>
+<li id="laddermenu_ul_5_3483_li__num16" class="dummy_class 
+		 lastItem laddermenu_item_3483 dummy_class" data-folderid="3483"><a href="/egyetemrol/egyetemi-ertesito" target="_self" title="" onclick="">Egyetemi Értesítő</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_25263_li__num31" class="dummy_class 
+		 hasChild dropdown laddermenu_item_25263 dummy_class" data-folderid="25263">
+<a id="laddermenu_ul_5_25263_li_a__num31" href="/oktatasi-tevekenyseg" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Oktatás</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__25263_li_a__num31">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_35969_li__num18" class="dummy_class 
+		 firstItem laddermenu_item_35969 dummy_class" data-folderid="35969"><a href="/oktatasi-tevekenyseg" target="_self" title="" onclick="">Oktatási tevékenység</a></li>
+<li id="laddermenu_ul_5_26191_li__num19" class="dummy_class 
+		 laddermenu_item_26191 dummy_class" data-folderid="26191"><a href="/karok" target="_self" title="" onclick="">Karok</a></li>
+<li id="laddermenu_ul_5_26166_li__num20" class="dummy_class 
+		 laddermenu_item_26166 dummy_class" data-folderid="26166"><a href="http://www.u-szeged.hu/kepzesek" target="_self" title="" onclick="">Képzések</a></li>
+<li id="laddermenu_ul_5_26164_li__num21" class="dummy_class 
+		 laddermenu_item_26164 dummy_class" data-folderid="26164"><a href="/kepzesi-szintek" target="_self" title="" onclick="">Képzési szintek</a></li>
+<li id="laddermenu_ul_5_26167_li__num22" class="dummy_class 
+		 laddermenu_item_26167 dummy_class" data-folderid="26167"><a href="/oktatas/kepzesi-teruletek" target="_self" title="" onclick="">Képzési területek</a></li>
+<li id="laddermenu_ul_5_26168_li__num23" class="dummy_class 
+		 laddermenu_item_26168 dummy_class" data-folderid="26168"><a href="/tanarkepzes-index" target="_blank" title="" onclick="">Tanárképzés</a></li>
+<li id="laddermenu_ul_5_30523_li__num24" class="dummy_class 
+		 lastItem laddermenu_item_30523 dummy_class" data-folderid="30523"><a href="/felnottkepzes" target="_self" title="" onclick="">Felnőttképzés</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_26169_li__num25" class="dummy_class 
+		 firstItem laddermenu_item_26169 dummy_class" data-folderid="26169"><a href="/oktatas/universitas" target="_self" title="" onclick="">E-Universitas</a></li>
+<li id="laddermenu_ul_5_26170_li__num26" class="dummy_class 
+		 laddermenu_item_26170 dummy_class" data-folderid="26170"><a href="/nemzetkozi-kapcsolatok?folderID=28766&amp;objectParentFolderId=26170" target="_self" title="" onclick="">Nemzetközi kapcsolatok</a></li>
+<li id="laddermenu_ul_5_35970_li__num27" class="dummy_class 
+		 laddermenu_item_35970 dummy_class" data-folderid="35970"><a href="/minosegfejlesztes-szte" target="_self" title="" onclick="">Minőségfejlesztés</a></li>
+<li id="laddermenu_ul_5_36004_li__num28" class="dummy_class 
+		 laddermenu_item_36004 dummy_class" data-folderid="36004"><a href="/oktatas/osztondijak-kutatasi" target="_self" title="" onclick="">Ösztöndíjak és kutatási versenyek</a></li>
+<li id="laddermenu_ul_5_58658_li__num29" class="dummy_class 
+		 laddermenu_item_58658 dummy_class" data-folderid="58658"><a href="http://www.ek.szte.hu" target="_blank" title="" onclick="">SZTE Klebelsberg Könyvtár</a></li>
+<li id="laddermenu_ul_5_51507_li__num30" class="dummy_class 
+		 lastItem laddermenu_item_51507 dummy_class" data-folderid="51507"><a href="/coursera/courseraforszte" target="_blank" title="" onclick="">Coursera</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_31738_li__num47" class="dummy_class 
+		 hasChild dropdown laddermenu_item_31738 dummy_class" data-folderid="31738">
+<a id="laddermenu_ul_5_31738_li_a__num47" href="/kutatas" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Kutatás</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__31738_li_a__num47">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_31752_li__num32" class="dummy_class 
+		 firstItem laddermenu_item_31752 dummy_class" data-folderid="31752"><a href="/tudomany-innovacio/kutatas-fejlesztes" target="_self" title="" onclick="">Tudomány és innováció</a></li>
+<li id="laddermenu_ul_5_31748_li__num33" class="dummy_class 
+		 laddermenu_item_31748 dummy_class" data-folderid="31748"><a href="/kutatas-fejlesztesi/kutatas-fejlesztesi" target="_self" title="" onclick="">Kutatás-fejlesztési és Innovációs Igazgatóság</a></li>
+<li id="laddermenu_ul_5_31751_li__num34" class="dummy_class 
+		 laddermenu_item_31751 dummy_class" data-folderid="31751"><a href="/mta-tamogatott/mta-kutatohelyek" target="_self" title="" onclick="">MTA támogatott kutatóhelyek</a></li>
+<li id="laddermenu_ul_5_31750_li__num35" class="dummy_class 
+		 laddermenu_item_31750 dummy_class" data-folderid="31750"><a href="/lendulet-kutatocsoportok/lendulet-kutatocsoportok" target="_self" title="" onclick="">Lendület kutatócsoportok</a></li>
+<li id="laddermenu_ul_5_31749_li__num36" class="dummy_class 
+		 laddermenu_item_31749 dummy_class" data-folderid="31749"><a href="/dokint" target="_blank" title="" onclick="">SZTE Doktori Iskolák</a></li>
+<li id="laddermenu_ul_5_31747_li__num37" class="dummy_class 
+		 laddermenu_item_31747 dummy_class" data-folderid="31747"><a href="/szellemi-alkotas-menedzsment" target="_blank" title="" onclick="">Szellemi alkotások kezelése, portfólió</a></li>
+<li id="laddermenu_ul_5_31746_li__num38" class="dummy_class 
+		 laddermenu_item_31746 dummy_class" data-folderid="31746"><a href="/online-talalmanyi-bejelento" target="_blank" title="" onclick="">Szellemi alkotás bejelentő</a></li>
+<li id="laddermenu_ul_5_31745_li__num39" class="dummy_class 
+		 lastItem laddermenu_item_31745 dummy_class" data-folderid="31745"><a href="http://www.inno.u-szeged.hu/dokumentumok" target="_blank" title="" onclick="">Szerződésminták és szabályzatok</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_48271_li__num40" class="dummy_class 
+		 firstItem laddermenu_item_48271 dummy_class" data-folderid="48271"><a href="/kutatas/interdisciplinary-centre" target="_blank" title="" onclick="">Interdiszciplináris Kiválósági Központ</a></li>
+<li id="laddermenu_ul_5_31744_li__num41" class="dummy_class 
+		 laddermenu_item_31744 dummy_class" data-folderid="31744"><a href="http://www.inno.u-szeged.hu/szte-tudasterkep" target="_blank" title="" onclick="">SZTE Tudástérkép</a></li>
+<li id="laddermenu_ul_5_31741_li__num42" class="dummy_class 
+		 laddermenu_item_31741 dummy_class" data-folderid="31741"><a href="/szte-ipari-kapcsolatok/ipari-kapcsolatok" target="_self" title="" onclick="">SZTE Ipari kapcsolatok</a></li>
+<li id="laddermenu_ul_5_31740_li__num43" class="dummy_class 
+		 laddermenu_item_31740 dummy_class" data-folderid="31740"><a href="/kutatas-fejlesztes/innovacios-hirek" target="_blank" title="" onclick="">Innovációs Hírek</a></li>
+<li id="laddermenu_ul_5_31739_li__num44" class="dummy_class 
+		 laddermenu_item_31739 dummy_class" data-folderid="31739"><a href="http://www.inno.u-szeged.hu/innovacios-hirlevel" target="_blank" title="" onclick="">Innovációs és K+F pályázati hírlevél</a></li>
+<li id="laddermenu_ul_5_58659_li__num45" class="dummy_class 
+		 laddermenu_item_58659 dummy_class" data-folderid="58659"><a href="http://szerzoknek.ek.szte.hu/%20" target="_blank" title="" onclick="">SZTE Klebelsberg Könyvtár</a></li>
+<li id="laddermenu_ul_5_48079_li__num46" class="dummy_class 
+		 lastItem laddermenu_item_48079 dummy_class" data-folderid="48079"><a href="/kutatas/technologia/technologia" target="_self" title="" onclick="">Technológia és tudástranszfer</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_57986_li__num51" class="dummy_class 
+		 hasChild dropdown laddermenu_item_57986 dummy_class" data-folderid="57986">
+<a id="laddermenu_ul_5_57986_li_a__num51" href="/szte-kezdooldal/gyogyitas" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Gyógyítás</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__57986_li_a__num51">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_58047_li__num48" class="dummy_class 
+		 firstItem laddermenu_item_58047 dummy_class" data-folderid="58047"><a href="/szakk" target="_blank" title="" onclick="">Klinikai Központ</a></li>
+<li id="laddermenu_ul_5_58046_li__num49" class="dummy_class 
+		 lastItem laddermenu_item_58046 dummy_class" data-folderid="58046"><a href="/szakk/betegellatas" target="_blank" title="" onclick="">Klinikák</a></li>
+</ul></div>
+<div class="col_right"><ul><li id="laddermenu_ul_5_58048_li__num50" class="dummy_class 
+		 firstItem lastItem laddermenu_item_58048 dummy_class" data-folderid="58048"><a href="/szakk/ugyelet" target="_blank" title="" onclick="">Ügyelet</a></li></ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_25258_li__num58" class="dummy_class 
+		 hasChild dropdown laddermenu_item_25258 dummy_class" data-folderid="25258">
+<a id="laddermenu_ul_5_25258_li_a__num58" href="/egyetemi-elet" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Egyetemi élet</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__25258_li_a__num58">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_26446_li__num52" class="dummy_class 
+		 firstItem laddermenu_item_26446 dummy_class" data-folderid="26446"><a href="/egyetemi-elet/hallgatoi-elet/hallgatoi-elet-szegedi" target="_self" title="" onclick="">Hallgatói élet</a></li>
+<li id="laddermenu_ul_5_26407_li__num53" class="dummy_class 
+		 laddermenu_item_26407 dummy_class" data-folderid="26407"><a href="/szervezeti-felepites/kozponti-szolgaltato?folderID=26659&amp;objectParentFolderId=26407" target="_self" title="" onclick="">Szolgáltatások</a></li>
+<li id="laddermenu_ul_5_29458_li__num54" class="dummy_class 
+		 lastItem laddermenu_item_29458 dummy_class" data-folderid="29458"><a href="/egyetemi-elet/szorakozas-kikapcsolodas/szorakozas-kikapcsolodas" target="_self" title="" onclick="">Szórakozás és kikapcsolódás</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_26406_li__num55" class="dummy_class 
+		 firstItem laddermenu_item_26406 dummy_class" data-folderid="26406"><a href="/egyetemi-elet/kultura-sport-szabadido/kultura-sport-szabadido" target="_self" title="" onclick="">Kultúra, sport, szabadidő</a></li>
+<li id="laddermenu_ul_5_26412_li__num56" class="dummy_class 
+		 laddermenu_item_26412 dummy_class" data-folderid="26412"><a href="/varos-regio" target="_self" title="" onclick="">Szeged és Hódmezővásárhely</a></li>
+<li id="laddermenu_ul_5_26411_li__num57" class="dummy_class 
+		 lastItem laddermenu_item_26411 dummy_class" data-folderid="26411"><a href="/kiadvanyok/ujsagok?folderID=26623&amp;objectParentFolderId=26411" target="_self" title="" onclick="">Újságok, folyóiratok</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_25248_li__num65" class="dummy_class 
+		 hasChild dropdown lastItem signedItem laddermenu_item_25248 dummy_class" data-folderid="25248">
+<a id="laddermenu_ul_5_25248_li_a__num65" href="/hirek-esemenyek" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Hírek, Események</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__25248_li_a__num65">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_25253_li__num59" class="dummy_class 
+		 firstItem laddermenu_item_25253 dummy_class" data-folderid="25253"><a href="/hirportal" target="_blank" title="" onclick="">Hírek</a></li>
+<li id="laddermenu_ul_5_25250_li__num60" class="dummy_class 
+		 laddermenu_item_25250 dummy_class" data-folderid="25250"><a href="/esemenyek" target="_self" title="" onclick="">Események</a></li>
+<li id="laddermenu_ul_5_36815_li__num61" class="dummy_class 
+		 lastItem laddermenu_item_36815 dummy_class" data-folderid="36815"><a href="/sztemagazin" target="_self" title="" onclick="">SZEM - Szegedi Egyetem Magazin</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_25371_li__num62" class="dummy_class 
+		 firstItem laddermenu_item_25371 dummy_class" data-folderid="25371"><a href="/sztehirek/sajtoszoba/online-sajtoszoba" target="_self" title="" onclick="">Sajtószoba</a></li>
+<li id="laddermenu_ul_5_30229_li__num63" class="dummy_class 
+		 laddermenu_item_30229 dummy_class" data-folderid="30229"><a href="/egyetemi-faliujsag" target="_self" title="" onclick="">Egyetemi faliújság</a></li>
+<li id="laddermenu_ul_5_19390_li__num64" class="dummy_class 
+		 lastItem laddermenu_item_19390 dummy_class" data-folderid="19390"><a href="/sztehirek/hirarchivum" target="_self" title="" onclick="">Hírarchívum</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+</ul>
+</li>
+<li id="laddermenu_ul_5_28428_li__num91" class="dummy_class 
+		 hasChild laddermenu_item_28428 dummy_class" data-folderid="28428">
+<a id="laddermenu_ul_5_28428_li_a__num91" href="/felveteli" target="_self" title="" onclick="">Felvételi</a><ul class="nav nav-tabs">
+<li id="laddermenu_ul_5_28455_li__num72" class="dummy_class 
+		 hasChild dropdown firstItem laddermenu_item_28455 dummy_class" data-folderid="28455">
+<a id="laddermenu_ul_5_28455_li_a__num72" href="/felveteli/felveteli-informaciok" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Felvételi információk</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__28455_li_a__num72">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_62157_li__num67" class="dummy_class 
+		 firstItem laddermenu_item_62157 dummy_class" data-folderid="62157"><a href="/felveteli/2022/szamoljuk-egyutt?folderID=58813&amp;objectParentFolderId=62157" target="_self" title="" onclick="">Pontszámítás változás 2023-2024</a></li>
+<li id="laddermenu_ul_5_28510_li__num68" class="dummy_class 
+		 laddermenu_item_28510 dummy_class" data-folderid="28510"><a href="/felveteli/kari-felveteli-tajekoztatok" target="_self" title="" onclick="">Kari felvételi tájékoztatók</a></li>
+<li id="laddermenu_ul_5_28514_li__num69" class="dummy_class 
+		 lastItem laddermenu_item_28514 dummy_class" data-folderid="28514"><a href="/felveteli/kiadvany" target="_self" title="" onclick="">Felvételi kiadvány</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_38624_li__num70" class="dummy_class 
+		 firstItem laddermenu_item_38624 dummy_class" data-folderid="38624"><a href="http://www.u-szeged.hu/felveteli/miert-szte" target="_self" title="" onclick="">Miért az SZTE?</a></li>
+<li id="laddermenu_ul_5_58997_li__num71" class="dummy_class 
+		 lastItem laddermenu_item_58997 dummy_class" data-folderid="58997"><a href="/felveteli/felveteli/felveteli-rendszer" target="_blank" title="" onclick="">E-felvételi</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_47431_li__num76" class="dummy_class 
+		 hasChild dropdown laddermenu_item_47431 dummy_class" data-folderid="47431">
+<a id="laddermenu_ul_5_47431_li_a__num76" href="/felveteli/palyaorientacio-190114" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Pályaorientáció</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__47431_li_a__num76">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_53662_li__num73" class="dummy_class 
+		 firstItem laddermenu_item_53662 dummy_class" data-folderid="53662"><a href="/sztekarrier/tanacsadasok/palyatervezes-kozepiskolas" target="_self" title="" onclick="">Pályatervezési tanácsadás középiskolásoknak</a></li>
+<li id="laddermenu_ul_5_47432_li__num74" class="dummy_class 
+		 lastItem laddermenu_item_47432 dummy_class" data-folderid="47432"><a href="/felveteli/online-tanacsadas/online-palyaorinentacios" target="_self" title="" onclick="">Online tanácsadás</a></li>
+</ul></div>
+<div class="col_right"><ul><li id="laddermenu_ul_5_48935_li__num75" class="dummy_class 
+		 firstItem lastItem laddermenu_item_48935 dummy_class" data-folderid="48935"><a href="/felveteli/infografikak/infografikak" target="_self" title="" onclick="">Infografikák</a></li></ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_28456_li__num82" class="dummy_class 
+		 hasChild dropdown laddermenu_item_28456 dummy_class" data-folderid="28456">
+<a id="laddermenu_ul_5_28456_li_a__num82" href="/felveteli/kepzesek/versenykepesseg-oktatas" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Képzések</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__28456_li_a__num82">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_28778_li__num77" class="dummy_class 
+		 firstItem laddermenu_item_28778 dummy_class" data-folderid="28778"><a href="/karok?folderID=26191&amp;objectParentFolderId=28778" target="_self" title="" onclick="">Karok</a></li>
+<li id="laddermenu_ul_5_37439_li__num78" class="dummy_class 
+		 laddermenu_item_37439 dummy_class" data-folderid="37439"><a href="http://www.u-szeged.hu/kepzesek?objectParentFolderId=37439" target="_self" title="" onclick="">Képzések</a></li>
+<li id="laddermenu_ul_5_28777_li__num79" class="dummy_class 
+		 lastItem laddermenu_item_28777 dummy_class" data-folderid="28777"><a href="/felveteli/kepzesek/kepzesi-teruletek" target="_self" title="" onclick="">Képzési területek</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_28775_li__num80" class="dummy_class 
+		 firstItem laddermenu_item_28775 dummy_class" data-folderid="28775"><a href="/tanarkepzes-index" target="_blank" title="" onclick="">Tanárképzés</a></li>
+<li id="laddermenu_ul_5_28774_li__num81" class="dummy_class 
+		 lastItem laddermenu_item_28774 dummy_class" data-folderid="28774"><a href="/dokint" target="_blank" title="" onclick="">PhD. képzés</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_38624_li__num83" class="dummy_class 
+		 laddermenu_item_38624 dummy_class" data-folderid="38624"><a href="http://www.u-szeged.hu/felveteli/miert-szte" target="_self" title="" onclick="">Miért az SZTE?</a></li>
+<li id="laddermenu_ul_5_28797_li__num86" class="dummy_class 
+		 hasChild dropdown laddermenu_item_28797 dummy_class" data-folderid="28797">
+<a id="laddermenu_ul_5_28797_li_a__num86" href="/szte-nyilt-napok" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Nyílt napok</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__28797_li_a__num86">
+<div class="col_left"><ul><li id="laddermenu_ul_5_42829_li__num84" class="dummy_class 
+		 firstItem lastItem laddermenu_item_42829 dummy_class" data-folderid="42829"><a href="/online-nyiltnap" target="_self" title="" onclick="">SZTE Online Nyílt Nap</a></li></ul></div>
+<div class="col_right"><ul><li id="laddermenu_ul_5_34767_li__num85" class="dummy_class 
+		 firstItem lastItem laddermenu_item_34767 dummy_class" data-folderid="34767"><a href="http://www.u-szeged.hu/felveteli/kari-nyilt-napok" target="_self" title="" onclick="">Kari nyílt napok</a></li></ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_28446_li__num90" class="dummy_class 
+		 hasChild dropdown lastItem laddermenu_item_28446 dummy_class" data-folderid="28446">
+<a id="laddermenu_ul_5_28446_li_a__num90" href="/felveteli/hirek" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Hírek</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__28446_li_a__num90">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_28447_li__num87" class="dummy_class 
+		 firstItem laddermenu_item_28447 dummy_class" data-folderid="28447"><a href="/felveteli/hirek/felveteli-hirek" target="_self" title="" onclick="">Felvételi hírek</a></li>
+<li id="laddermenu_ul_5_28999_li__num88" class="dummy_class 
+		 lastItem laddermenu_item_28999 dummy_class" data-folderid="28999"><a href="/felveteli/hirek/felveteli-hirarchivum" target="_self" title="" onclick="">Felvételi hírarchívum</a></li>
+</ul></div>
+<div class="col_right"><ul><li id="laddermenu_ul_5_28451_li__num89" class="dummy_class 
+		 firstItem lastItem laddermenu_item_28451 dummy_class" data-folderid="28451"><a href="/felveteli/hirek/felveteli-rendezvenyek-170302" target="_self" title="" onclick="">Felvételi rendezvények, határidők</a></li></ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+</ul>
+</li>
+<li id="laddermenu_ul_5_57521_li__num105" class="dummy_class 
+		 hasChild laddermenu_item_57521 dummy_class" data-folderid="57521">
+<a id="laddermenu_ul_5_57521_li_a__num105" href="/hallgatoknak-210823" target="_self" title="" onclick="">Hallgatóknak</a><ul class="nav nav-tabs">
+<li id="laddermenu_ul_5_57522_li__num95" class="dummy_class 
+		 hasChild dropdown firstItem laddermenu_item_57522 dummy_class" data-folderid="57522">
+<a id="laddermenu_ul_5_57522_li_a__num95" href="/hallgatoknak-210823/szakrendszerek" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Szakrendszerek</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__57522_li_a__num95">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_58034_li__num92" class="dummy_class 
+		 firstItem laddermenu_item_58034 dummy_class" data-folderid="58034"><a href="https://www.neptun.u-szeged.hu/" target="_blank" title="" onclick="">Neptun</a></li>
+<li id="laddermenu_ul_5_58033_li__num93" class="dummy_class 
+		 lastItem laddermenu_item_58033 dummy_class" data-folderid="58033"><a href="https://www.coosp.etr.u-szeged.hu/?nofb=1" target="_blank" title="" onclick="">Coospace</a></li>
+</ul></div>
+<div class="col_right"><ul><li id="laddermenu_ul_5_58032_li__num94" class="dummy_class 
+		 firstItem lastItem laddermenu_item_58032 dummy_class" data-folderid="58032"><a href="https://modulo.etr.u-szeged.hu/Modulo2/default/login/index" target="_blank" title="" onclick="">Modulo</a></li></ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_25239_li__num96" class="dummy_class 
+		 laddermenu_item_25239 dummy_class" data-folderid="25239"><a href="/hallgatoknak/hallgatoinknak" target="_self" title="" onclick="">Hallgatóknak</a></li>
+<li id="laddermenu_ul_5_1306_li__num104" class="dummy_class 
+		 hasChild dropdown lastItem laddermenu_item_1306 dummy_class" data-folderid="1306">
+<a id="laddermenu_ul_5_1306_li_a__num104" href="/felvettek/koszonto/koszonto" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Felvett hallgatóknak</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__1306_li_a__num104">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_50775_li__num97" class="dummy_class 
+		 firstItem laddermenu_item_50775 dummy_class" data-folderid="50775"><a href="/felvettek/koszonto/koszonto" target="_self" title="" onclick="">Köszöntő</a></li>
+<li id="laddermenu_ul_5_1346_li__num98" class="dummy_class 
+		 laddermenu_item_1346 dummy_class" data-folderid="1346"><a href="http://www.u-szeged.hu/felvettek/tanevnyito" target="_self" title="" onclick="">Tanévnyitó</a></li>
+<li id="laddermenu_ul_5_1312_li__num99" class="dummy_class 
+		 laddermenu_item_1312 dummy_class" data-folderid="1312"><a href="/felvettek/elso-lepeseim" target="_self" title="" onclick="">Első lépéseim</a></li>
+<li id="laddermenu_ul_5_1347_li__num100" class="dummy_class 
+		 lastItem laddermenu_item_1347 dummy_class" data-folderid="1347"><a href="/informaciok/lakhatas/lakhatas" target="_self" title="" onclick="">Lakhatás</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_1311_li__num101" class="dummy_class 
+		 firstItem laddermenu_item_1311 dummy_class" data-folderid="1311"><a href="/felvettek/tanulmanyaim" target="_self" title="" onclick="">Tanulmányaim</a></li>
+<li id="laddermenu_ul_5_1310_li__num102" class="dummy_class 
+		 laddermenu_item_1310 dummy_class" data-folderid="1310"><a href="/penzugyek-kezelese" target="_self" title="" onclick="">Pénzügyek kezelése</a></li>
+<li id="laddermenu_ul_5_1308_li__num103" class="dummy_class 
+		 lastItem laddermenu_item_1308 dummy_class" data-folderid="1308"><a href="/felvettek/szolgaltatasok/szolgaltatasok" target="_self" title="" onclick="">Szolgáltatások</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+</ul>
+</li>
+<li id="laddermenu_ul_5_57523_li__num118" class="dummy_class 
+		 hasChild laddermenu_item_57523 dummy_class" data-folderid="57523">
+<a id="laddermenu_ul_5_57523_li_a__num118" href="/munkatarsaknak-210823" target="_self" title="" onclick="">Munkatársaknak</a><ul class="nav nav-tabs">
+<li id="laddermenu_ul_5_57524_li__num116" class="dummy_class 
+		 hasChild dropdown firstItem laddermenu_item_57524 dummy_class" data-folderid="57524">
+<a id="laddermenu_ul_5_57524_li_a__num116" href="/munkatarsaknak-210823/szakrendszerek" target="_self" title="" onclick="" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Szakrendszerek</a><div class="dropdown-menu" aria-labelledby="laddermenu_ul__57524_li_a__num116">
+<div class="col_left"><ul>
+<li id="laddermenu_ul_5_58043_li__num106" class="dummy_class 
+		 firstItem laddermenu_item_58043 dummy_class" data-folderid="58043"><a href="/iszi/szolgaltatas/szte-egyetemi-azonosito" target="_blank" title="" onclick="">SZTE Egyetemi azonosító</a></li>
+<li id="laddermenu_ul_5_58042_li__num107" class="dummy_class 
+		 laddermenu_item_58042 dummy_class" data-folderid="58042"><a href="https://www.neptun.u-szeged.hu/" target="_blank" title="" onclick="">Neptun</a></li>
+<li id="laddermenu_ul_5_58503_li__num108" class="dummy_class 
+		 laddermenu_item_58503 dummy_class" data-folderid="58503"><a href="https://www.coosp.etr.u-szeged.hu/" target="_blank" title="" onclick="">CooSpace</a></li>
+<li id="laddermenu_ul_5_58036_li__num109" class="dummy_class 
+		 laddermenu_item_58036 dummy_class" data-folderid="58036"><a href="/iszi/szolgaltatas/modulo" target="_blank" title="" onclick="">Modulo</a></li>
+<li id="laddermenu_ul_5_58040_li__num110" class="dummy_class 
+		 lastItem laddermenu_item_58040 dummy_class" data-folderid="58040"><a href="/iszi/contenta/contenta-repozitoriumok" target="_blank" title="" onclick="">Contenta</a></li>
+</ul></div>
+<div class="col_right"><ul>
+<li id="laddermenu_ul_5_58039_li__num111" class="dummy_class 
+		 firstItem laddermenu_item_58039 dummy_class" data-folderid="58039"><a href="/iszi/szolgaltatasok/emenza" target="_blank" title="" onclick="">E-Menza</a></li>
+<li id="laddermenu_ul_5_58041_li__num112" class="dummy_class 
+		 laddermenu_item_58041 dummy_class" data-folderid="58041"><a href="/iszi/szolgaltatas/coospace" target="_blank" title="" onclick="">GMF Coospace</a></li>
+<li id="laddermenu_ul_5_58038_li__num113" class="dummy_class 
+		 laddermenu_item_58038 dummy_class" data-folderid="58038"><a href="/iszi/szolgaltatas/eduid" target="_blank" title="" onclick="">eduID</a></li>
+<li id="laddermenu_ul_5_58037_li__num114" class="dummy_class 
+		 laddermenu_item_58037 dummy_class" data-folderid="58037"><a href="/iszi/szolgaltatas/egyetemi-levelezes" target="_blank" title="" onclick="">Egyetemi levelezési rendszer</a></li>
+<li id="laddermenu_ul_5_58035_li__num115" class="dummy_class 
+		 lastItem laddermenu_item_58035 dummy_class" data-folderid="58035"><a href="/iszi/szolgaltatas/nexon" target="_self" title="" onclick="">NEXON önkiszolgáló HR rendszer</a></li>
+</ul></div>
+<div class="col_article"></div>
+</div>
+</li>
+<li id="laddermenu_ul_5_25238_li__num117" class="dummy_class 
+		 lastItem laddermenu_item_25238 dummy_class" data-folderid="25238"><a href="/munkatarsainknak/munkatarsaknak" target="_self" title="" onclick="">Munkatársaknak</a></li>
+</ul>
+</li>
+<li id="laddermenu_ul_5_25237_li__num119" class="dummy_class 
+		 lastItem laddermenu_item_25237 dummy_class" data-folderid="25237"><a href="https://uniszegedalumni.com/" target="_blank" title="" onclick="">Alumni</a></li>
+</ul>
+							<div id="mainmenusub_article_container" class="hidden">
+								
+	
+		<div class="object_container">
+			<div class="object_title">
+				<a href="/modellvaltas" class="" title="2021. augusztus elsejével a Szegedi Tudományegyetem költségvetési intézményből közfeladatot ellátó, közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézménnyé alakul." target="_blank" onclick="">2021. augusztus elsejével a Szegedi Tudományegyetem költségvetési intézményből közfeladatot ellátó, közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézménnyé alakul.</a>
+			</div>
+			<div class="clearfix"></div>
+
+			<div class="object_intro">
+				
+<p style="text-align: justify;"><a href="/modellvaltas" title="A fenttartóváltással kapcsolatos további információkért kérjük kattintson IDE." target="_blank">A fenttartóváltással kapcsolatos további információkért kérjük kattintson IDE.</a></p>
+
+			</div>
+			<div class="clearfix"></div>
+
+			<div class="object_intro2">
+				
+<p><img id="imageid_172789_1622458667499" src="/site/upload/2021/05/kep_tajekoztato.jpg" alt="kep_tajekoztato" title="kep_tajekoztato" style="" width="1170" height="431"></p>
+
+			</div>
+			<div class="clearfix"></div>
+
+			<div class="object_next">
+				<a href="/modellvaltas" class="" title="2021. augusztus elsejével a Szegedi Tudományegyetem költségvetési intézményből közfeladatot ellátó, közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézménnyé alakul." target="_blank" onclick="">Tovább a teljes cikkhez</a>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	
+
+							</div>
+						</div>
+						<div class="col-lg-1 col-md-1 col-sm-6 col-xs-12 fastSearchToggleContainer">
+							<!-- Gyors kereső -->
+							<div class="fastSearchToggle"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="visible-xs-block backgroundBlue headerMobile">
+			<!-- Mobil nézet -->
+			<div class="container">
+				<div class="row backgroundWhite">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 mainLogo">
+						<!-- Logó cikk -->
+						
+	
+		
+			<p><a href="/" title="Főoldal"><img src="/site/design3/img/szte_logo.png" alt="Főoldal"></a><br></p>
+		
+	
+
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+						<div class="fastSearchToggleContainer">
+							<!-- Gyors kereső -->
+							<div class="fastSearchToggle"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div id="fast_search_row" class="backgroundWhite">
+			<div class="container">
+				<div id="fastsearch_container" class="fastSearch">
+					<div id="searchdiv">
+						<!-- Keresés -->
+						
+			<script type="text/javascript">
+		var GOOGLE_SEARCH_API_KEY = '009472185360576815215:tnijx9l132k';
+	</script><form method="get" action="https://u-szeged.hu/kereses-190123">
+<input type="hidden" name="folderID" value="25282"><div id="searchbox_text">
+<label for="searchInput" style="display: none;">Kulcsszó:</label><input type="text" id="searchInput" name="searchStr" onfocus="this.select();" value="Keresés"><script type="text/javascript">
+						//
+							if (document.getElementById('searchInput')) {
+								document.getElementById('searchInput').setAttribute('autocomplete', 'off');
+								//document.getElementById('searchInput').focus();
+							}
+							else {
+								setTimeout("if (document.getElementById('searchInput')) {document.getElementById('searchInput').setAttribute('autocomplete', 'off');}", 300);
+								//setTimeout("if (document.getElementById('searchInput')) {document.getElementById('searchInput').focus();}", 300);
+							}
+						//
+					</script><noscript></noscript>
+</div>
+<div id="searchbox_disc"><input type="image" value=" " title="Keres" alt="Keres" src="/site/img/search_disc.gif"></div>
+</form>
+		
+						<div id="searchresult_close" class="searchresult_close"><a href="javascript:searchresult_close();"><img alt="Bezár" src="/site/img/search_close.gif"></a></div>
+					</div>
+					<div id="searchtop"><!-- result --></div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="visible-xs-block backgroundBlue headerMobile">
+			<!-- Mobil nézet -->
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mainMenu">
+						<div class="navbar navbar-default" role="navigator">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcollapse_main_menu">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div>
+	
+							<div id="navcollapse_main_menu" class="navbar-collapse collapse">
+								<!-- Főmenü -->
+								<div class="signedLastItem">
+									<ul id="udm_7">
+<li id="laddermenu_ul_7_57520_li" class="dummy_class 
+		 hasChild firstItem signedItem laddermenu_item_57520 dummy_class">
+<a id="laddermenu_ul_7_57520_li_a" href="/szte-kezdooldal" target="_self" title="" onclick="">SZTE kezdőoldal</a><ul>
+<li class="dummy_class 
+		 firstItem laddermenu_item_25264 dummy_class" id="laddermenu_ul_7_25264_li"><a href="/bemutatkozas" target="_self" title="" onclick="">Az Egyetemről</a></li>
+<li class="dummy_class 
+		 laddermenu_item_25263 dummy_class" id="laddermenu_ul_7_25263_li"><a href="/oktatasi-tevekenyseg" target="_self" title="" onclick="">Oktatás</a></li>
+<li class="dummy_class 
+		 laddermenu_item_31738 dummy_class" id="laddermenu_ul_7_31738_li"><a href="/kutatas" target="_self" title="" onclick="">Kutatás</a></li>
+<li class="dummy_class 
+		 laddermenu_item_57986 dummy_class" id="laddermenu_ul_7_57986_li"><a href="/szte-kezdooldal/gyogyitas" target="_self" title="" onclick="">Gyógyítás</a></li>
+<li class="dummy_class 
+		 laddermenu_item_25258 dummy_class" id="laddermenu_ul_7_25258_li"><a href="/egyetemi-elet" target="_self" title="" onclick="">Egyetemi élet</a></li>
+<li class="dummy_class 
+		 lastItem signedItem laddermenu_item_25248 dummy_class" id="laddermenu_ul_7_25248_li"><a href="/hirek-esemenyek" target="_self" title="" onclick="">Hírek, Események</a></li>
+</ul>
+</li>
+<li id="laddermenu_ul_7_28428_li" class="dummy_class 
+		 hasChild laddermenu_item_28428 dummy_class">
+<a id="laddermenu_ul_7_28428_li_a" href="/felveteli" target="_self" title="" onclick="">Felvételi</a><ul>
+<li class="dummy_class 
+		 firstItem laddermenu_item_28455 dummy_class" id="laddermenu_ul_7_28455_li"><a href="/felveteli/felveteli-informaciok" target="_self" title="" onclick="">Felvételi információk</a></li>
+<li class="dummy_class 
+		 laddermenu_item_47431 dummy_class" id="laddermenu_ul_7_47431_li"><a href="/felveteli/palyaorientacio-190114" target="_self" title="" onclick="">Pályaorientáció</a></li>
+<li class="dummy_class 
+		 laddermenu_item_28456 dummy_class" id="laddermenu_ul_7_28456_li"><a href="/felveteli/kepzesek/versenykepesseg-oktatas" target="_self" title="" onclick="">Képzések</a></li>
+<li class="dummy_class 
+		 laddermenu_item_38624 dummy_class" id="laddermenu_ul_7_38624_li"><a href="http://www.u-szeged.hu/felveteli/miert-szte" target="_self" title="" onclick="">Miért az SZTE?</a></li>
+<li class="dummy_class 
+		 laddermenu_item_28797 dummy_class" id="laddermenu_ul_7_28797_li"><a href="/szte-nyilt-napok" target="_self" title="" onclick="">Nyílt napok</a></li>
+<li class="dummy_class 
+		 lastItem laddermenu_item_28446 dummy_class" id="laddermenu_ul_7_28446_li"><a href="/felveteli/hirek" target="_self" title="" onclick="">Hírek</a></li>
+</ul>
+</li>
+<li id="laddermenu_ul_7_57521_li" class="dummy_class 
+		 hasChild laddermenu_item_57521 dummy_class">
+<a id="laddermenu_ul_7_57521_li_a" href="/hallgatoknak-210823" target="_self" title="" onclick="">Hallgatóknak</a><ul>
+<li class="dummy_class 
+		 firstItem laddermenu_item_57522 dummy_class" id="laddermenu_ul_7_57522_li"><a href="/hallgatoknak-210823/szakrendszerek" target="_self" title="" onclick="">Szakrendszerek</a></li>
+<li class="dummy_class 
+		 laddermenu_item_25239 dummy_class" id="laddermenu_ul_7_25239_li"><a href="/hallgatoknak/hallgatoinknak" target="_self" title="" onclick="">Hallgatóknak</a></li>
+<li class="dummy_class 
+		 lastItem laddermenu_item_1306 dummy_class" id="laddermenu_ul_7_1306_li"><a href="/felvettek/koszonto/koszonto" target="_self" title="" onclick="">Felvett hallgatóknak</a></li>
+</ul>
+</li>
+<li id="laddermenu_ul_7_57523_li" class="dummy_class 
+		 hasChild laddermenu_item_57523 dummy_class">
+<a id="laddermenu_ul_7_57523_li_a" href="/munkatarsaknak-210823" target="_self" title="" onclick="">Munkatársaknak</a><ul>
+<li class="dummy_class 
+		 firstItem laddermenu_item_57524 dummy_class" id="laddermenu_ul_7_57524_li"><a href="/munkatarsaknak-210823/szakrendszerek" target="_self" title="" onclick="">Szakrendszerek</a></li>
+<li class="dummy_class 
+		 lastItem laddermenu_item_25238 dummy_class" id="laddermenu_ul_7_25238_li"><a href="/munkatarsainknak/munkatarsaknak" target="_self" title="" onclick="">Munkatársaknak</a></li>
+</ul>
+</li>
+<li class="dummy_class 
+		 lastItem laddermenu_item_25237 dummy_class" id="laddermenu_ul_7_25237_li"><a href="https://uniszegedalumni.com/" target="_blank" title="" onclick="">Alumni</a></li>
+</ul>
+								</div>
+	
+								<!-- Fejléc almenü -->
+								
+	
+		
+			<ul>
+	<li><a href="/telefonkonyv" title="Telefonkönyv" target="_self">Telefonkönyv</a></li>
+	<li><a href="/egyetemrol/kapcsolat" title="Kapcsolat" target="_self">Kapcsolat</a></li>
+	<li><a href="/english" title="English" target="_self">English</a></li>
+</ul>
+
+		
+	
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="twoColumn laddermenuHidden">
+		<!-- Intro2 tartalom jelölő (lista nézetben üres, kifejtő módban az intró2 létezése) -->
+		
+	
+		<div class="intro2Marker hasContent"></div>
+	
+
+	
+		<div class="container bs-docs-container crumbMenuContainer">
+			<div class="row crumb_menu">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<!-- Rovat elérési út -->
+					<span class="folderpathContainer"><a href="/hirek-esemenyek" target="_self" class="folderpath">Hírek, Események</a>
+						&nbsp;<img src="/site/img/pathseparator.png" alt="--">&nbsp;
+					<a href="/hirportal" target="_self" class="folderpath">SZTEhírek</a></span>
+				</div>
+			</div>
+		</div>
+	
+		<div class="container bs-docs-container mainContent">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 leftSide">
+					<!-- Bal oldali létra menü (fa) -->
+					
+				<div class="laddermenu_10_container">
+<script type="text/javascript">
+			
+				var active_array=new Array();
+				function laddermenu_keypress(str) {
+					if (event.keyCode || event.which) {
+						var key = (event.keyCode) ? (event.keyCode) : (event.which);
+						if ((key==32) || (key==13)) {
+							laddermenu_toggle(str);
+						}
+					}
+				}
+				function laddermenu_toggle(n) {
+					if (document.getElementById(n)) {
+						if (document.getElementById(n).style.display != 'block') document.getElementById(n).style.display = 'block';
+						else document.getElementById(n).style.display = 'none';
+					}
+					active_array.push(n);
+				}
+
+				function openUmMenu(menuID,linkObj) {
+					if( um.ready ) {
+						//find co-ordinates of link object
+						var coords = {
+							'x' : um.getRealPosition(linkObj,'x')
+							,'y' : um.getRealPosition(linkObj,'y')
+						};
+
+						//increase y-position to place it below the link
+						coords.y += (linkObj.offsetHeight + 4);
+
+						//activate menu at returned co-ordinates
+						um.activateMenu(menuID, coords.x + 'px', coords.y + 'px');
+					}
+				}
+				function closeUmMenu(menuID) {
+					if(um.ready) um.deactivateMenu(menuID);
+				}
+			
+			</script><noscript></noscript>
+<div class="rootTitle"><h2>SZTEhírek</h2></div>
+<ul class="laddermenu dummy_class laddermenu_10" id="laddermenu">
+<li class="dummy_class  pf19381 gpf19349 firstItem dummy_class" id="laddermenu_ul_10_30370_li">
+<a href="/hirportal" target="_self" title="SZTEHírek főoldal" onclick="">SZTEHírek főoldal</a><span class="hidden">.</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 hasChild dummy_class" id="laddermenu_ul_10_19384_li">
+<a href="/sztehirek/sajtoszoba/online-sajtoszoba" title="Sajtószoba" onclick="">Sajtószoba</a><span class="hidden">:</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 hasChild dummy_class" id="laddermenu_ul_10_19390_li">
+<a href="/sztehirek/hirarchivum" title="Hírarchívum" onclick="">Hírarchívum</a><span class="hidden">:</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 dummy_class" id="laddermenu_ul_10_2226_li">
+<a href="/sztehirek/szteinfo-hirlevel/szteinfo-hirlevel" target="_self" title="SZTEinfo hírlevél" onclick="">SZTEinfo hírlevél</a><span class="hidden">.</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 dummy_class" id="laddermenu_ul_10_51541_li">
+<a href="/sztehirek/ajanlo" target="_self" title="Ajánló" onclick="">Ajánló</a><span class="hidden">.</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 hasChild dummy_class" id="laddermenu_ul_10_40512_li">
+<a href="/sztehirek/kancellari-hirlevel" title="Kancellári hírlevél" onclick="">Kancellári hírlevél</a><span class="hidden">:</span>
+</li>
+<li class="dummy_class  pf19381 gpf19349 dummy_class" id="laddermenu_ul_10_19505_li">
+<a href="/sztehirek/kozossegek/kozossegek" target="_self" title="Közösségek" onclick="">Közösségek</a><span class="hidden">.</span>
+</li>
+<li class="dummy_class lastelement_noline pf19381 gpf19349 lastItem dummy_class" id="laddermenu_ul_10_23298_li">
+<a href="http://www.u-szeged.hu/tudasportal" target="_blank" title="Tudományos hírek" onclick="">Tudományos hírek</a><span class="hidden">.</span>
+</li>
+<li class="hiddenLastItem"><a href="#">.</a></li>
+</ul>
+<script type="text/javascript">
+							laddermenu_toggle('laddermenu_ul_10_1');
+						
+							laddermenu_toggle('laddermenu_ul_10_3');
+						
+							laddermenu_toggle('laddermenu_ul_10_4');
+						
+							laddermenu_toggle('laddermenu_ul_10_24');
+						
+							laddermenu_toggle('laddermenu_ul_10_25235');
+						
+							laddermenu_toggle('laddermenu_ul_10_25248');
+						
+							laddermenu_toggle('laddermenu_ul_10_19349');
+						
+							laddermenu_toggle('laddermenu_ul_10_19381');
+						
+							laddermenu_toggle('laddermenu_ul_10_19355');
+						</script><noscript></noscript>
+</div>
+			
+				</div>
+				<div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-8 col-xs-12 rightSide">
+					<div class="row mainIntro2Container">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<!-- Lista nézetben üres, kifejtő módban az intró2, takaró, cím (ha van tartalom) -->
+							
+	
+		<div class="article_intro2">
+			
+<p><img id="imageid_201355_1665388778463" src="/site/upload/2022/10/pexels_pixabay_60504.jpg" alt="pexels-pixabay-60504" title="pexels-pixabay-60504" style="" width="2000" height="1333"></p>
+
+		</div>
+
+		<div class="article_intro2_cover"></div>
+		<div class="clearfix"></div>
+
+		<div class="article_title"><div>
+			Képzés a tudatosabb IT-biztonságért
+		</div></div>
+	
+
+						</div>
+					</div>
+	
+					<div class="row mainContentContainer">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<!-- Listázó, kifejtő -->
+							
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>	
+
+	<script>!function(d,s,id){
+		var js, fjs=d.getElementsByTagName(s)[0], p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s); js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+		}(document, 'script', 'twitter-wjs');
+	</script>
+
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'hu', parsetags: 'onload'};
+
+		(function() {
+			var id = 'googleplus-jssdk';
+			if (document.getElementById(id)) return;
+			var po = document.createElement('script');
+			po.id = id;
+			po.type = 'text/javascript'; 
+			po.async = true;
+			po.defer = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; 
+			// s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+
+	
+		<h1 class="article_title">
+			Képzés a tudatosabb IT-biztonságért
+		</h1>
+		<div class="article_time_data">
+			<div class="display_date">2022. október 10.</div>
+		</div>
+		<div class="article_intro">
+			
+<p><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DoNotShowComments/>
+  <w:DoNotShowInsertionsAndDeletions/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>HU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+        {mso-style-name:"Normál táblázat";
+        mso-tstyle-rowband-size:0;
+        mso-tstyle-colband-size:0;
+        mso-style-noshow:yes;
+        mso-style-priority:99;
+        mso-style-parent:"";
+        mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+        mso-para-margin-top:0cm;
+        mso-para-margin-right:0cm;
+        mso-para-margin-bottom:8.0pt;
+        mso-para-margin-left:0cm;
+        line-height:107%;
+        mso-pagination:widow-orphan;
+        font-size:11.0pt;
+        font-family:"Calibri",sans-serif;
+        mso-ascii-font-family:Calibri;
+        mso-ascii-theme-font:minor-latin;
+        mso-hansi-font-family:Calibri;
+        mso-hansi-theme-font:minor-latin;
+        mso-bidi-font-family:"Times New Roman";
+        mso-bidi-theme-font:minor-bidi;
+        mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal"><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DoNotShowComments/>
+  <w:DoNotShowInsertionsAndDeletions/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>HU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+        {mso-style-name:"Normál táblázat";
+        mso-tstyle-rowband-size:0;
+        mso-tstyle-colband-size:0;
+        mso-style-noshow:yes;
+        mso-style-priority:99;
+        mso-style-parent:"";
+        mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+        mso-para-margin-top:0cm;
+        mso-para-margin-right:0cm;
+        mso-para-margin-bottom:8.0pt;
+        mso-para-margin-left:0cm;
+        line-height:107%;
+        mso-pagination:widow-orphan;
+        font-size:11.0pt;
+        font-family:"Calibri",sans-serif;
+        mso-ascii-font-family:Calibri;
+        mso-ascii-theme-font:minor-latin;
+        mso-hansi-font-family:Calibri;
+        mso-hansi-theme-font:minor-latin;
+        mso-bidi-font-family:"Times New Roman";
+        mso-bidi-theme-font:minor-bidi;
+        mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal" style="text-align: justify;">Hogyan lehet felismerni egy csaló telefonhívást vagy csaló e-mailt? Melyek az igazán erős jelszó ismérvei? Milyen biztonsági incidensek érhetik a munkahelyen és mobiltelefon használata során? Ezekere a kérdésekre is választ kapnak azok az SZTE-dolgozók, akik a most induló képzésen részt vesznek. Részletek és jelentkezés a cikkben.</p>
+
+		</div>
+		<div class="article_social">
+			<div class="article_social_box article_print">
+				<a href="javascript:%20window.print();" title="Cikk nyomtatás"><img src="https://u-szeged.hu/site/design2/img/icon_article_print.png" alt="Cikk nyomtatás"><span>Cikk nyomtatás</span></a>
+			</div>
+			<div class="article_social_box article_send">
+				<a href="javascript:%20void(0);" title="Link küldés" target="_blank" onclick="window.open('/cikk-kuldese-141007?metadataID=5642914', 'offer_window', 'scrollbars=no,status=no,resizable=no,width=478,height=460');return false;"><img src="https://u-szeged.hu/site/design2/img/icon_article_send.png" alt="Link küldés"><span>Link küldés</span></a>
+			</div>
+			<div class="article_social_box article_facebook">
+		    <div class="fb-like" data-href="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="tahoma"></div>
+			</div>
+			<div class="article_social_box article_twitter">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A" data-lang="hu">Tweet</a>
+			</div>
+			<div class="article_social_box article_google">
+				<div class="g-plusone" data-size="medium" data-href="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A"></div>
+			</div>
+		</div>
+		<div class="article_txt">
+			<p><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DoNotShowComments/>
+  <w:DoNotShowInsertionsAndDeletions/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>HU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+        {mso-style-name:"Normál táblázat";
+        mso-tstyle-rowband-size:0;
+        mso-tstyle-colband-size:0;
+        mso-style-noshow:yes;
+        mso-style-priority:99;
+        mso-style-parent:"";
+        mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+        mso-para-margin-top:0cm;
+        mso-para-margin-right:0cm;
+        mso-para-margin-bottom:8.0pt;
+        mso-para-margin-left:0cm;
+        line-height:107%;
+        mso-pagination:widow-orphan;
+        font-size:11.0pt;
+        font-family:"Calibri",sans-serif;
+        mso-ascii-font-family:Calibri;
+        mso-ascii-theme-font:minor-latin;
+        mso-hansi-font-family:Calibri;
+        mso-hansi-theme-font:minor-latin;
+        mso-bidi-font-family:"Times New Roman";
+        mso-bidi-theme-font:minor-bidi;
+        mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal" style="text-align: left;">A Szegedi Tudományegyetem támogatást nyert a „Komplex Digitális Modellváltás - Intelligens fokozatváltás” projekt megvalósítására. A projektben októbertől felhasználó-tudatossági és információbiztonsági képzés indul az egyetem dolgozói számára. A 2022.07.01-től 2026.04.30-ig tartó tevékenység kiemelt célja a gyakorlati képzéseket, a képzési innovációt, képzésfejlesztést, az intelligens szakosodást, az ügyfélélmény növelését, a vállalkozási készségek fejlesztését, agilis munkaerőpiaci illeszkedést, a nemzetköziesítést és a kiszolgáló infrastruktúra energiahatékonyságát segítő digitális fejlesztések megvalósítása.</p>
+<p class="MsoNormal" style="text-align: left;">A készségfejlesztő képzésekről, programokról és a projekt eredményeiről hírlevelekben számolnak be a szervezők a következő hónapokban. A hírlevélre az alábbi <a href="/digitalisjovo/hirlevel/feliratkozas" title="linken lehet feliratkozni" target="_blank">linken lehet feliratkozni</a>.<br></p>
+<p class="MsoNormal" style="text-align: left;"><strong>A képzés legfontosabb tudnivalói:</strong></p>
+<p class="MsoNormal" style="text-align: left;">IT Biztonságtudatossági képzés</p>
+<p class="MsoNormal" style="text-align: left;">Hogyan lehet felismerni egy csaló telefonhívást vagy csaló e-mailt? Melyek az igazán erős jelszó ismérvei? Milyen biztonsági incidensek érhetik a munkahelyen és mobiltelefon használata során?</p>
+<p class="MsoNormal" style="text-align: left;">Napjaink digitális átalakulásával párhuzamosan növekszik az online térben jelenlévő biztonsági fenyegetések száma. Ezeket megelőzni, valamint időben felismerni az egyik leghasznosabb tudás, amelyet egy felhasználó birtokolhat.</p>
+<p class="MsoNormal" style="text-align: left;">Az IT biztonság-tudatossági képzés havonta érkező, egyéni tempóban feldolgozható, interaktív formában fejleszti a kiberbiztonsági készségeket.</p>
+<p class="MsoNormal" style="text-align: left;">A képzésről röviden:</p>
+<p class="MsoNormal" style="text-align: left;">• elméleti és gyakorlati tudnivalók</p>
+<p class="MsoNormal" style="text-align: left;">• egyéni tempóban feldolgozható</p>
+<p class="MsoNormal" style="text-align: left;">• interaktív</p>
+<p class="MsoNormal" style="text-align: left;">• naprakész tudás</p>
+<p class="MsoNormal" style="text-align: left;">• tanúsítvánnyal zárul</p>
+<p class="MsoNormal" style="text-align: left;">• 1 félév– 5 alkalom</p>
+<p class="MsoNormal" style="text-align: left;">• formája: e-mail kampány</p>
+<p class="MsoNormal" style="text-align: left;">A képzés fókuszában álló témák:</p>
+<p class="MsoNormal" style="text-align: left;">• Bevezető a kiberbiztonság alapjaiba</p>
+<p class="MsoNormal" style="text-align: left;">• Biztonságos internethasználat</p>
+<p class="MsoNormal" style="text-align: left;">• Social engineering</p>
+<p class="MsoNormal" style="text-align: left;">• Közösségimédia-használat</p>
+<p class="MsoNormal" style="text-align: left;">• Mobileszközök biztonságos használata</p>
+<p class="MsoNormal" style="text-align: left;">&nbsp;</p>
+<p class="MsoNormal" style="text-align: left;">Regisztráció a <a href="/rrf-jelentkezes" title="Moduló felületén" target="_blank">Moduló felületén</a>.<br></p>
+<p class="MsoNormal" style="text-align: left;">További információk a jelentkezéshez a <a href="/iszi/kepzesunk/itbiztonsag" title=" linkre " target="_blank">linkre</a> kattintva elérhetők.</p>
+<p class="MsoNormal" style="text-align: right;"><em>SZTE info</em></p>
+<p class="MsoNormal" style="text-align: right;"><em>Nyitókép: pexels.com</em></p>
+		</div>
+		<div class="article_social bottom">
+			<div class="article_social_box article_print">
+				<a href="javascript:%20window.print();" title="Cikk nyomtatás"><img src="https://u-szeged.hu/site/design2/img/icon_article_print.png" alt="Cikk nyomtatás"><span>Cikk nyomtatás</span></a>
+			</div>
+			<div class="article_social_box article_send">
+				<a href="javascript:%20void(0);" title="Link küldés" target="_blank" onclick="window.open('/cikk-kuldese-141007?metadataID=5642914', 'offer_window', 'scrollbars=no,status=no,resizable=no,width=478,height=460');return false;"><img src="https://u-szeged.hu/site/design2/img/icon_article_send.png" alt="Link küldés"><span>Link küldés</span></a>
+			</div>
+			<div class="article_social_box article_facebook">
+		    <div class="fb-like" data-href="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="tahoma"></div>
+			</div>
+			<div class="article_social_box article_twitter">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A" data-lang="hu">Tweet</a>
+			</div>
+			<div class="article_social_box article_google">
+				<div class="g-plusone" data-size="medium" data-href="https://u-szeged.hu/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355%0A"></div>
+			</div>
+		</div>
+	
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="backgroundBlue currentEvents">
+		<div class="container">
+			<div class="row sectionTitle">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<h2>Aktuális események</h2>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 event">
+					<a href="/hirek-esemenyek/online-esemenyek" title="Eseménynaptár" class="outerLink bigNextButton white">Eseménynaptár</a>
+				</div>
+			</div>
+	
+			<div class="row eventList">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					
+				<h3>Rendezvénynaptár <span class="rss"><a href="/main.php?folderID=&amp;rss=1" title="RSS"><img src="/site/img/rss_w.gif" alt="*"></a></span>
+</h3>
+<ul>
+<li><div class="event_data style_bottom">
+<div class="img"><img src="/site/upload/2022/10/309430618_5429675660420030_129550739506715381_n.jpg" alt="*"></div>
+<div class="startMonthDay">
+<div class="month">okt</div>
+<div class="day">11</div>
+</div>
+<div class="title"><a href="https://www.facebook.com/events/1482830452222506/?ref=newsfeed">26. Őszi Kulturális Fesztivál - Egyetemista nap a Móra Ferenc Múzeumban</a></div>
+<div class="bottom_placeholder">
+<div class="place">Móra Ferenc Múzeum, Roosevelt tér 1-3. </div>
+<div class="onlyTimeIntervall">10:00 - 18:00</div>
+</div>
+<div class="bottom">
+<div class="place">Móra Ferenc Múzeum, Roosevelt tér 1-3. </div>
+<div class="onlyTimeIntervall">10:00 - 18:00</div>
+</div>
+</div></li>
+<li><div class="event_data style_bottom">
+<div class="img"><img src="/site/upload/2022/10/letoltes__19_.jpg" alt="*"></div>
+<div class="startMonthDay">
+<div class="month">okt</div>
+<div class="day">11</div>
+</div>
+<div class="title"><a href="/hirek-esemenyek/online-esemenyek?calendarID=19511">26. Őszi Kulturális Fesztivál - Hartay Csaba Joe és Jen csodálatos utazása a gyilkolás terhe alatt című könyvének bemutatója – rendhagyó óra középiskolásoknak</a></div>
+<div class="bottom_placeholder">
+<div class="place">Somogyi-könyvtár, első emeleti közösségi tér, Dóm tér 1-4.</div>
+<div class="onlyTimeIntervall">10:00 - 11:00</div>
+</div>
+<div class="bottom">
+<div class="place">Somogyi-könyvtár, első emeleti közösségi tér, Dóm tér 1-4.</div>
+<div class="onlyTimeIntervall">10:00 - 11:00</div>
+</div>
+</div></li>
+<li><div class="event_data style_bottom">
+<div class="img"><img src="/site/upload/2022/10/okf_lzold_2022_200x2008.png" alt="*"></div>
+<div class="startMonthDay">
+<div class="month">okt</div>
+<div class="day">11</div>
+</div>
+<div class="title"><a href="/hirek-esemenyek/online-esemenyek?calendarID=19512">Vers délben – Verset mond: Berczeli-Nemcsényi Alex oktatásfejlesztési munkatárs (SZTE Oktatási Igazgatóság)</a></div>
+<div class="bottom_placeholder">
+<div class="place">SZTE Rektori Épület, Szent-Györgyi Albert szobor, Dugonics tér 13.</div>
+<div class="onlyTimeIntervall">12:10 - 13:10</div>
+</div>
+<div class="bottom">
+<div class="place">SZTE Rektori Épület, Szent-Györgyi Albert szobor, Dugonics tér 13.</div>
+<div class="onlyTimeIntervall">12:10 - 13:10</div>
+</div>
+</div></li>
+<li><div class="event_data style_bottom">
+<div class="img"><img src="/site/upload/2022/10/letoltes__1_.jpg" alt="*"></div>
+<div class="startMonthDay">
+<div class="month">okt</div>
+<div class="day">11</div>
+</div>
+<div class="title"><a href="/hirek-esemenyek/online-esemenyek?calendarID=19513">26. Őszi Kulturális Fesztivál - Ismeretterjesztő beszélgetés: Cultural experiences in universities across the world</a></div>
+<div class="bottom_placeholder">
+<div class="place">SZTE Állam- és Jogtudományi Kar, Kari Társalgó, Tisza Lajos krt. 54.</div>
+<div class="onlyTimeIntervall">14:00 - 15:00</div>
+</div>
+<div class="bottom">
+<div class="place">SZTE Állam- és Jogtudományi Kar, Kari Társalgó, Tisza Lajos krt. 54.</div>
+<div class="onlyTimeIntervall">14:00 - 15:00</div>
+</div>
+</div></li>
+</ul>
+<div class="kozep_tovabbi"><a href="/hirek-esemenyek/online-esemenyek">Még több rendezvény <img src="/site/img/rarrow.gif" alt="még több rendezvény"></a></div>
+<div id="ticket_calendar_today" class="ticket_calendar_today"><div id="calendar_pointer" class="calendar_pointer"></div></div>
+			
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="backgroundWithImage connectArticle">
+		<div class="container">
+			<div class="row sectionTitle">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<h2>Kapcsolódó hírek</h2>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 event">
+					<a href="/hirek-esemenyek/online-esemenyek" title="Eseménynaptár" class="outerLink bigNextButton">Eseménynaptár</a>
+				</div>
+			</div>
+	
+			<div class="row articleList">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					
+	<div class="row">
+		
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="article_data">
+					<div class="object_intro2"><p><img id="imageid_201389_1665399747929" src="/site/upload/2022/10/foto_23.jpg" alt="foto-23" title="foto-23" style=""></p></div>
+					<div class="clearfix"></div>
+
+					<div class="object_parent_folder">
+						<a href="/sztehirek/legujabb-hireink" class="" title="Legújabb híreink">Legújabb híreink</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="object_title">
+						<a href="/sztehirek/2022-oktober/24-oras-muveszeti?objectParentFolderId=19355" class="" title="24 órás művészeti maratont tartottak a TIK-ben" target="_self" onclick="">24 órás művészeti maratont tartottak a TIK-ben</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="next hidden">
+						<a href="/sztehirek/2022-oktober/24-oras-muveszeti?objectParentFolderId=19355" class="" title="24 órás művészeti maratont tartottak a TIK-ben" target="_self" onclick="">Részletek</a>
+					</div>
+					<div class="clearfix hidden"></div>
+				</div>
+			</div>
+			<div class="mainclear"></div>
+		
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="article_data">
+					<div class="object_intro2"><p><img id="imageid_201355_1665388778463" src="/site/upload/2022/10/pexels_pixabay_60504.jpg" alt="pexels-pixabay-60504" title="pexels-pixabay-60504" style=""></p></div>
+					<div class="clearfix"></div>
+
+					<div class="object_parent_folder">
+						<a href="/sztehirek/legujabb-hireink" class="" title="Legújabb híreink">Legújabb híreink</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="object_title">
+						<a href="/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355" class="" title="Képzés a tudatosabb IT-biztonságért" target="_self" onclick="">Képzés a tudatosabb IT-biztonságért</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="next hidden">
+						<a href="/sztehirek/2022-oktober/kepzes-tudatosabb-it?objectParentFolderId=19355" class="" title="Képzés a tudatosabb IT-biztonságért" target="_self" onclick="">Részletek</a>
+					</div>
+					<div class="clearfix hidden"></div>
+				</div>
+			</div>
+			<div class="mainclear"></div>
+		
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="article_data">
+					<div class="object_intro2"><p><img id="imageid_201336_1665384915122" src="/site/upload/2022/10/img_5739.jpg" alt="IMG_5739" title="IMG_5739" style=""></p></div>
+					<div class="clearfix"></div>
+
+					<div class="object_parent_folder">
+						<a href="/sztehirek/legujabb-hireink" class="" title="Legújabb híreink">Legújabb híreink</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="object_title">
+						<a href="/sztehirek/2022-oktober/jeges-tuzes-tajakon?objectParentFolderId=19355" class="" title="Jeges és tüzes tájakon vándorolva" target="_self" onclick="">Jeges és tüzes tájakon vándorolva</a>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="next hidden">
+						<a href="/sztehirek/2022-oktober/jeges-tuzes-tajakon?objectParentFolderId=19355" class="" title="Jeges és tüzes tájakon vándorolva" target="_self" onclick="">Részletek</a>
+					</div>
+					<div class="clearfix hidden"></div>
+				</div>
+			</div>
+			<div class="mainclear"></div>
+		
+	</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="backgroundWhite linkList accordion">
+		<div class="container">
+			<div class="row sectionTitle">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<h2>Hasznos linkek</h2>
+				</div>
+			</div>
+	
+			<div class="row shortLink">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column1">
+					<!-- Hasznos linkek + cím - 1. oszlop cikk -->
+					
+	
+		
+			<h3>Felvételi</h3>
+<ul class="kozep">
+<li>
+<a href="/felvetelizoknek/potfelveteli-2022" class="" title="Pótfelvételi 2022" target="_self" onclick="">Pótfelvételi 2022</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/felveteli/felveteli-informaciok" class="" title="Felvételi információk" target="_self" onclick="">Felvételi információk</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/felveteli/start-osztondij" class="" title="Start ösztöndíj" target="_self" onclick="">Start ösztöndíj</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/felveteli/palyaorientacio-190114" class="" title="Pályaorientáció" target="_self" onclick="">Pályaorientáció</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/szte-nyilt-napok" class="" title="Nyílt napok" target="_self" onclick="">Nyílt napok</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/felveteli/kepzesek/versenykepesseg-oktatas" class="" title="Képzések" target="_self" onclick="">Képzések</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/felveteli/hirek/felveteli-hirek" class="" title="Felvételi hírek" target="_self" onclick="">Felvételi hírek</a><span class="aural">.</span>
+</li>
+</ul>
+
+		
+	
+
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column2">
+					<!-- Hasznos linkek + cím - 2. oszlop cikk -->
+					
+	
+		
+			<h3>Képzéseink</h3>
+<ul class="kozep">
+<li>
+<a href="/oktatas/felsofoku-szakkepzes-141031/felsofoku-szakkepzes" class="" title="Felsőoktatási szakképzés" target="_self" onclick="">Felsőoktatási szakképzés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/oktatas/szakiranyu-tovabbkepzes-141031/szakiranyu-tovabbkepzes" class="" title="Szakirányú továbbképzés" target="_self" onclick="">Szakirányú továbbképzés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/oktatas/egyseges-osztatlan-141031/egyseges-osztatlan" class="" title="Egységes osztatlan képzés" target="_self" onclick="">Egységes osztatlan képzés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/oktatas/mesterkepzes-141031/mesterkepzes" class="" title="Mesterképzés" target="_self" onclick="">Mesterképzés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/kepzesi-szintek/alapkepzes-150319" class="" title="Alapképzés" target="_self" onclick="">Alapképzés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/kepzesi-szintek/doktori-intezet" class="" title="Doktori intézet" target="_self" onclick="">Doktori intézet</a><span class="aural">.</span>
+</li>
+</ul>
+
+		
+	
+
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column3">
+					<!-- Hasznos linkek + cím - 3. oszlop cikk -->
+					
+	
+		
+			<h3>Centenárium</h3>
+<ul class="kozep">
+<li>
+<a href="/centenarium/evfordulok" class="" title="Évfordulók" target="_self" onclick="">Évfordulók</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/jubileumok/hirek/centenariumi-hirek-211109" class="" title="HÍREK" target="_self" onclick="">HÍREK</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/jubileumok/szent-gyorgyi-albert-201215" class="" title="SZENT-GYÖRGYI ALBERT" target="_self" onclick="">SZENT-GYÖRGYI ALBERT</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/jubileumok/szent-gyorgyi-albert/szent-gyorgyi-kiallitas" class="" title="Szent-Györgyi kiállítás" target="_self" onclick="">Szent-Györgyi kiállítás</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/szentgyorgyi/emlekseta-120917" class="" title="Szent-Györgyi emlékséta" target="_blank" onclick="">Szent-Györgyi emlékséta</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/jubileumok/galeriak" class="" title="GALÉRIÁK" target="_self" onclick="">GALÉRIÁK</a><span class="aural">.</span>
+</li>
+</ul>
+		
+	
+
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<!-- Ugrás az oldal tetejére -->
+	<div class="container backToTop">
+		<div>
+			<a href="#back_to_top_anchor" title="Vissza az oldal tetejére" class="backToTopIcon"></a>
+		</div>
+	</div>
+
+	<div id="footer_container" class="bs-docs-footer backgroundBlueWithImage">
+		<div id="footer_top">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 mainLogo">
+						<img src="/site/design3/img/icon_szte_footer.png" alt="SZTE">
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 backToTop">
+						<a href="#back_to_top_anchor" title="Vissza az oldal tetejére" class="backToTopIcon"></a>
+					</div>
+				</div>
+	
+				<div class="row shortLink">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column1">
+						<!-- Lábléc - 1. oszlop cikk -->
+						
+	
+		
+			<h3 class="accordionUL">Egyetemi karok</h3>
+<ul class="kozep">
+<li>
+<a href="http://www.juris.u-szeged.hu" class="" title="Állam- és Jogtudományi Kar" target="_blank" onclick="">Állam- és Jogtudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.music.u-szeged.hu/" class="" title="Bartók Béla Művészeti Kar" target="_blank" onclick="">Bartók Béla Művészeti Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.arts.u-szeged.hu" class="" title="Bölcsészet- és Társadalomtudományi Kar" target="_blank" onclick="">Bölcsészet- és Társadalomtudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.etszk.u-szeged.hu/" class="" title="Egészségtudományi és Szociális Képzési Kar" target="_blank" onclick="">Egészségtudományi és Szociális Képzési Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.stoma.u-szeged.hu/" class="" title="Fogorvostudományi Kar" target="_blank" onclick="">Fogorvostudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.eco.u-szeged.hu" class="" title="Gazdaságtudományi Kar" target="_blank" onclick="">Gazdaságtudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.pharm.u-szeged.hu/" class="" title="Gyógyszerésztudományi Kar" target="_blank" onclick="">Gyógyszerésztudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.jgypk.u-szeged.hu/" class="" title="Juhász Gyula Pedagógusképző Kar" target="_blank" onclick="">Juhász Gyula Pedagógusképző Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.mgk.u-szeged.hu/" class="" title="Mezőgazdasági Kar" target="_blank" onclick="">Mezőgazdasági Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.mk.u-szeged.hu/" class="" title="Mérnöki Kar" target="_blank" onclick="">Mérnöki Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.med.u-szeged.hu/" class="" title="Szent-Györgyi Albert Orvostudományi Kar" target="_blank" onclick="">Szent-Györgyi Albert Orvostudományi Kar</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/tanarkepzes" class="" title="SZTE Tanárképző Központ" target="_blank" onclick="">SZTE Tanárképző Központ</a><span class="aural">,</span>
+</li>
+<li>
+<a href="http://www.sci.u-szeged.hu" class="" title="Természettudományi és Informatikai Kar" target="_blank" onclick="">Természettudományi és Informatikai Kar</a><span class="aural">.</span>
+</li>
+</ul>
+
+		
+	
+
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column2">
+						<!-- Lábléc - 2. oszlop cikk -->
+						
+	
+		
+			<h3 class="accordionUL">Hasznos linkek</h3>
+<ul>
+<li><a href="/egyetemrol/alapitvanyok" title="Alapítványok">Alapítványok</a></li>
+<li><a href="/szabalyzatok" title="Szabályzatok">Szabályzatok</a></li>
+<li><a href="/szabalyzatok/szmsz-szervezeti" title="Szervezeti Működési Rend" target="_blank">Szervezeti Működési Rend</a></li>
+<li><a href="http://ww2.bibl.u-szeged.hu/index.php" title="Klebelsberg Könyvtár" target="_blank">Klebelsberg Könyvtár</a></li>
+<li><a href="/egyetemrol/kozponti-szolgaltato/jozsef-attila-tanulmanyi" title="József Attila Tanulmányi és Információs Központ" target="_blank">József Attila Tanulmányi és Információs Központ</a></li>
+<li><a href="/rtszk" title="Rendezvényhelyszín - SZTE központi épület" target="_blank">Rendezvényhelyszín - SZTE központi épület</a></li>
+<li><a href="http://new.sztehap.hu/" title="EHÖK" target="_blank">EHÖK</a></li>
+<li><a href="/pmi/szte-fejlesztesi" title="SZTE Fejlesztési Projektek" target="_blank">SZTE Fejlesztési Projektek</a></li>
+<li><a href="/egyetemi-faliujsag/palyazatok-egyetemi" title="Karrier - pályázatok egyetemi állásokra és tisztségekre" target="_blank">Karrier - pályázatok egyetemi állásokra és tisztségekre</a></li>
+</ul>
+<h3 class="accordionUL">Betegellátás</h3>
+<ul>
+<li><a href="http://www.klinikaikozpont.u-szeged.hu/hu" title="Szent-Györgyi Albert Klinikai Központ" target="_blank">Szent-Györgyi Albert Klinikai Központ</a></li>
+<li><a href="/karunkrol/klinikak/klinikak" title="Klinikák" target="_blank">Klinikák</a></li>
+<li><a href="http://www.klinikaikozpont.u-szeged.hu/hu/" title="Klinikai ügyeletek" target="_blank">Klinikai ügyeletek</a></li>
+</ul>
+		
+	
+
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 column3">
+						<!-- Lábléc - 3. oszlop cikk -->
+						
+	
+		
+			<h3 class="contactTitle accordionUL">Kapcsolat</h3>
+<ul>
+	<li><a href="https://goo.gl/maps/8fhKDPWQNDAeNbRc7" target="_blank" class="contactAddress">6720 Szeged, Dugonics tér 13.</a></li>
+	<li><a href="tel:+3662544000" class="contactPhone">(+36-62) 544-000</a></li>
+	<li><a href="tel:+3662546371" class="contactFax">(+36-62) 546-371</a></li>
+</ul>
+
+<h3 class="mapTitle"><a href="/egyetemi-elet/terkep" title="Térképek és útvonalak" class="outerLink">Térképek és útvonalak</a></h3>
+
+<h3 class="socialmediaTitle">Kövess minket!</h3>
+<p class="socialmediaContainer">
+	<a href="https://www.linkedin.com/edu/school?id=43110&amp;trk=tyah&amp;trkInfo=clickedVertical%3Aschool%2Cidx%3A3-1-4%2CtarId%3A1426855265514%2Ctas%3Auniversity+of+szeged" title="Linked in" target="_blank" class="linkedin">
+		<img id="imageid_0_1411029525443" src="/site/design3/img/icon_sm_linkedin.png" alt="Linked in">
+	</a>
+	<a href="http://www.facebook.com/univszeged" title="Facebook" target="_blank" class="facebook">
+		<img id="imageid_0_1411029525463" src="/site/design3/img/icon_sm_facebook.png" alt="Facebook">
+	</a>
+	<a href="https://instagram.com/uniszeged/" title="Instagram" target="_blank" class="instagram">
+		<img id="imageid_69926_1428656975497" src="/site/design3/img/icon_sm_instagram.png" alt="Instagram">
+	</a>
+	<a href="http://youtube.com/univszeged" title="YouTube" target="_blank" class="youtube">
+		<img id="imageid_0_1411029525453" src="/site/design3/img/icon_sm_youtube.png" alt="YouTube">
+	</a>
+	<br>
+</p>
+
+		
+	
+
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div id="footer_bottom">
+			<div class="container">
+				<div class="inner">
+					<div class="row">
+						<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 privacy">
+							© 2010 Szegedi Tudományegyetem. Minden jog fenntartva.
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 menu">
+							<!-- Jobb alsó menü -->
+							<ul class="kozep nav navbar-nav">
+<li>
+<a href="/sutikezeles/sutikezeles" class="" title="Sütikezelés" target="_self" onclick="">Sütikezelés</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/adatvedelem/adatvedelem" class="" title="Adatvédelem" target="_self" onclick="">Adatvédelem</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/impresszum" class="" title="Impresszum" target="_self" onclick="">Impresszum</a><span class="aural">,</span>
+</li>
+<li>
+<a href="/segitseg" class="" title="Segítség" target="_self" onclick="">Segítség</a><span class="aural">.</span>
+</li>
+</ul>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<script type="text/javascript">
+				//
+					function webraDocumentAnalitics(currentHref) {
+						if ( typeof pageTracker!='undefined' && typeof currentHref!='undefined' && currentHref!='' ) {
+							pageTracker._trackPageview(currentHref);
+						}
+					}
+				//
+				</script>
+				<noscript></noscript>
+				
+				<script type="text/javascript">
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+					document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script>
+				<noscript></noscript>
+				<script type="text/javascript">
+					try {
+						var pageTracker = _gat._getTracker("UA-4002385-1");
+						pageTracker._trackPageview();
+					} catch(err) {}
+				</script>
+				<noscript></noscript>
+			<!-- scheme: 2021 Rovat, cikk listázó képekkel - kifejtő dátummal + közösségi modulok + küldés --></body>
+</html>
